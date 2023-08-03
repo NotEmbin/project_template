@@ -1,0 +1,16 @@
+{
+	"format_version":1,
+	"id":"author_placeholder_default_resources",
+	"name":"Default Resources",
+	"author":"author",
+	"description":"Default resources for $gn",
+	"pack_version":"v1.0.0",
+	"special_data":[
+		"non_removable",
+		"never_out_of_date",
+		"vanilla",
+		"hide_author",
+		"translated_description",
+		"translated_name"
+	]
+}
