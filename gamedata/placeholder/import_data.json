@@ -1,6 +1,5 @@
 {
 	"ui_controller":[
-		"embin/assets/characters/icons/",
-		"embin/assets/ui/"
+		"placeholder/assets/ui/"
 	]
 }
