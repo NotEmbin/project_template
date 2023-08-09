@@ -2,7 +2,7 @@
 	"format_version":1,
 	"id":"author_placeholder_default_resources",
 	"name":"Default Resources",
-	"author":"author",
+	"author":"Author",
 	"description":"Default resources for $gn",
 	"pack_version":"v1.0.0",
 	"special_data":[

@@ -1,0 +1,23 @@
+{
+	"button.start":"Start",
+	"button.settings":"Settings...",
+	"button.change_log":"Change Logs...",
+	"button.more":"More...",
+	"button.latest_version":"Check for Latest Version",
+	"button.volume":"Volume Settings...",
+	"button.volume_slider":"Volume",
+	"button.music_volume_slider":"Music Volume",
+	"button.special_effects":"Special Effect Settings...",
+	"button.graphics":"Graphics Settings...",
+	"button.controls":"Controls...",
+	"button.back":"Back...",
+	"generic_word.cancel":"Cancel",
+	"generic_word.remove":"Remove",
+	"generic_word.add":"Add",
+	"generic_word.delete":"Delete",
+	"generic_word.uninstall":"Uninstall",
+	"generic_word.install":"Install",
+	"generic_word.move":"Move",
+	"generic_word.yes":"Yes",
+	"generic_word.no":"No"
+}
