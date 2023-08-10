@@ -1,6 +1,6 @@
 {
 	"ui_controller":[
-		"placeholder/assets/ui/testfolder/",
-		"placeholder/assets/ui/iconborder_blue.png"
+		"placeholder/assets/ui/iconborder_blue.png",
+		"placeholder/assets/ui/testfolder/"
 	]
 }
