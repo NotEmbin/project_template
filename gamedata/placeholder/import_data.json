@@ -2,5 +2,10 @@
 	"ui_controller":[
 		"placeholder/assets/ui/iconborder_blue.png",
 		"placeholder/assets/ui/testfolder/"
+	],
+	"sprite_template":[
+		"placeholder/assets/ui/iconborder_green.png",
+		"placeholder/assets/ui/testfolder/",
+		"placeholder/assets/ui/testfolder2/"
 	]
 }
