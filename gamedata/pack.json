@@ -2,6 +2,7 @@
 	"format_version":1,
 	"id":"author_placeholder_default_resources",
 	"name":"Default Resources",
+	"game":"placeholder",
 	"author":"Author",
 	"description":"Default resources for $gn",
 	"pack_version":"v1.0.0",
@@ -11,6 +12,7 @@
 		"vanilla",
 		"hide_author",
 		"translated_description",
-		"translated_name"
+		"translated_name",
+		"no_errors"
 	]
 }
