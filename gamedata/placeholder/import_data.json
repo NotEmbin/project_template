@@ -1,5 +1,8 @@
 {
-	"ui_controller":[
+	"files":[
+		"placeholder/assets/fallback.png"
+	],
+	"folders":[
 		"placeholder/assets/ui/"
 	]
 }
