@@ -24,6 +24,7 @@
 	"button.resource_packs.no_name":"Untitled resource pack",
 	"button.resource_packs.no_description":"No description given",
 	"button.resource_packs.no_version":"Pack doesn't specify a game version it was made for",
+	"button.resource_packs.no_version_compact":"No specified version",
 	"button.resource_packs.no_author":"No listed author",
 	"button.resource_packs.outdated_version":"Pack is for an older game version, issues may arise",
 	"button.resource_packs.outdated_game":"Pack is for a newer game version, issues may arise",
