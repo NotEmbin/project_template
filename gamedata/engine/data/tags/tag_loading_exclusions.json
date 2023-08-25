@@ -1,6 +1,3 @@
-{
-	"replace":false,
-	"data":[
-		"#engine:tag_template"
-	]
-}
+[
+	"tag_template.json"
+]
