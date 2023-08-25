@@ -1,0 +1,8 @@
+{
+	"replace":false,
+	"data":[
+		"nsid:thing1",
+		"nsid:thing2",
+		"nsid:thing3"
+	]
+}
