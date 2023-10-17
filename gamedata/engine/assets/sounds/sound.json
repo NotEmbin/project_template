@@ -1,0 +1,17 @@
+{
+	"music":[
+		{
+			"file":"music_test.mp3",
+			"name":"music_test",
+			"loop":false
+		}
+	],
+	"sound_effects":[
+		{
+			"file":"sound_test.mp3",
+			"name":"sound_test",
+			"loop":false
+		}
+	]
+}
+	
