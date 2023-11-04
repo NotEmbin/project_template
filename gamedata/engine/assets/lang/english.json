@@ -42,5 +42,11 @@
 	"generic_word.no":"No",
 	"generic_word.back":"Back",
 	"generic_word.import":"Import",
-	"generic_word.export":"Export"
+	"generic_word.export":"Export",
+	"control.engine.confirm_prompt":"Confirm Prompt",
+	"control.engine.cancel_prompt":"Cancel Prompt",
+	"control.engine.restart_game":"Restart Game",
+	"control.engine.show_fps":"Show FPS",
+	"control.engine.show_debug_screen":"Show Debug Screen",
+	"control.engine.show_logs":"Show Console Logs"
 }
