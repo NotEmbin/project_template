@@ -2,9 +2,11 @@
 	"files":[
 		"engine/assets/fallback.png",
 		"engine/assets/fade.png",
-		"engine/assets/fade2.png"
+		"engine/assets/fade2.png",
+		"engine/assets/empty.png"
 	],
 	"folders":[
-		"engine/assets/ui/"
+		"engine/assets/textures/ui/",
+		"engine/assets/textures/misc/"
 	]
 }
