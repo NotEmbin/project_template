@@ -9,6 +9,7 @@
 		"fwb/assets/textures/attack_buttons/",
 		"fwb/assets/textures/attacks/",
 		"fwb/assets/textures/misc/",
-		"fwb/assets/textures/enemies/"
+		"fwb/assets/textures/enemies/",
+		"fwb/assets/textures/ui/"
 	]
 }

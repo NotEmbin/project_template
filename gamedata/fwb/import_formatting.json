@@ -1,0 +1,10 @@
+{
+	"fwb/assets/textures/character_icons/":{
+		"prefix":"icon/",
+		"suffix":""
+	},
+	"fwb/assets/textures/attack_buttons/":{
+		"prefix":"",
+		"suffix":"_attack_button"
+	}
+}
