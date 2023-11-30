@@ -1,0 +1,9 @@
+{
+	"complete":[
+		"English"
+	],
+	"incomplete":[],
+	"language_files":{
+		"English":"english.json"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"id":"mic_toss",
+	"base_damage":20,
+	"base_damage_to_self":0,
+	"attack_type":"generic_toss",
+	"can_crit":false,
+	"crit_damage_multiplier":16,
+	"poison_enemy":false,
+	"is_enemy_attack":false
+}

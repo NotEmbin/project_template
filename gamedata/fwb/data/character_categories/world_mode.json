@@ -1,0 +1,8 @@
+{
+	"id":"world_mode",
+	"has_random":true,
+	"does_order_matter":true,
+	"characters":[
+		"#fwb:in_world_mode"
+	]
+}

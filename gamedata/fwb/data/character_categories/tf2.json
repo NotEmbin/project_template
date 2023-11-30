@@ -1,0 +1,8 @@
+{
+	"id":"tf2",
+	"has_random":true,
+	"does_order_matter":true,
+	"characters":[
+		"#fwb:from_tf2"
+	]
+}

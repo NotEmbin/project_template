@@ -1,0 +1,14 @@
+{
+	"files":[
+		"fwb/assets/fallback.png",
+		"fwb/assets/empty.png"
+	],
+	"folders":[
+		"fwb/assets/textures/character_icons/",
+		"fwb/assets/textures/characters/",
+		"fwb/assets/textures/attack_buttons/",
+		"fwb/assets/textures/attacks/",
+		"fwb/assets/textures/misc/",
+		"fwb/assets/textures/enemies/"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"id":"jumpscare",
+	"base_damage":10,
+	"base_damage_to_self":-10,
+	"attack_type":"jumpscare_attack",
+	"can_crit":false,
+	"crit_damage_multiplier":1,
+	"poison_enemy":false,
+	"is_enemy_attack":false
+}

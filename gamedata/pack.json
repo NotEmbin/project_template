@@ -1,9 +1,9 @@
 {
 	"format_version":1,
-	"id":"author_placeholder_default_resources",
+	"id":"embin_fwb_default_resources",
 	"name":"Default Resources",
-	"game":"placeholder",
-	"author":"Author",
+	"game":"fwb",
+	"author":"Embin",
 	"description":"Default resources for $gn",
 	"pack_version":"v1.0.0",
 	"special_data":[
