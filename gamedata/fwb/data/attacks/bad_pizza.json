@@ -1,0 +1,10 @@
+{
+	"id":"bad_pizza",
+	"base_damage":85,
+	"base_damage_to_self":0,
+	"attack_type":"generic_fall_onto_enemy",
+	"can_crit":false,
+	"crit_damage_multiplier":1,
+	"poison_enemy":true,
+	"color":"green"
+}

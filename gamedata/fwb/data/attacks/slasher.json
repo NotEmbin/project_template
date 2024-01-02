@@ -1,0 +1,12 @@
+{
+	"id":"slasher",
+	"base_damage":25,
+	"base_damage_to_self":0,
+	"attack_type":"generic_toss_no_spin",
+	"can_crit":true,
+	"crit_damage_multiplier":10,
+	"crit_damage_override":99999,
+	"crit_chance":0.01,
+	"poison_enemy":false,
+	"color":"black"
+}

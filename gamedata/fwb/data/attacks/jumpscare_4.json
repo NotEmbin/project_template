@@ -1,0 +1,11 @@
+{
+	"id":"jumpscare_4",
+	"base_damage":50,
+	"base_damage_to_self":-50,
+	"attack_type":"jumpscare_attack",
+	"can_crit":true,
+	"crit_damage_multiplier":100,
+	"crit_chance":0.05
+	"poison_enemy":false,
+	"color":"black"
+}

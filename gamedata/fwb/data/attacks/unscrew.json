@@ -1,0 +1,13 @@
+{
+	"id":"unscrew",
+	"base_damage":0,
+	"base_damage_to_self":0,
+	"attack_type":"unscrew",
+	"can_crit":true,
+	"crit_damage_multiplier":1,
+	"crit_damage_override":100000000,
+	"crit_chance":0.1,
+	"crit_chance_boss":0.001,
+	"poison_enemy":false,
+	"color":"black"
+}

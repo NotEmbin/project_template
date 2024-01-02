@@ -6,5 +6,6 @@
 	"can_crit":false,
 	"crit_damage_multiplier":1,
 	"poison_enemy":false,
-	"is_enemy_attack":false
+	"is_enemy_attack":false,
+	"color":"red"
 }

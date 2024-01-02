@@ -1,0 +1,10 @@
+{
+	"id":"pizza_wheel_2",
+	"base_damage":58,
+	"base_damage_to_self":0,
+	"attack_type":"generic_swarm",
+	"can_crit":false,
+	"crit_damage_multiplier":1,
+	"poison_enemy":false,
+	"color":"red"
+}
