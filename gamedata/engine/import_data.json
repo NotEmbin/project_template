@@ -3,7 +3,8 @@
 		"engine/assets/fallback.png",
 		"engine/assets/fade.png",
 		"engine/assets/fade2.png",
-		"engine/assets/empty.png"
+		"engine/assets/empty.png",
+		"engine/assets/black.png"
 	],
 	"folders":[
 		"engine/assets/textures/ui/",
