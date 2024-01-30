@@ -1,0 +1,12 @@
+{
+	"id":"withered_bonnie",
+	"health":170,
+	"attacks":[
+		"fwb:pizza_wheel_2",
+		"fwb:punch",
+		"fwb:slasher"
+	],
+	"frames_of_animation":11,
+	"size_override":null,
+	"y_pos_override":null
+}

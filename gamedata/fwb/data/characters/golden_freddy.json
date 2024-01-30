@@ -1,0 +1,12 @@
+{
+	"id":"golden_freddy",
+	"health":225,
+	"attacks":[
+		"fwb:prize_ball_2",
+		"fwb:mega_bite",
+		"fwb:instant_health_2"
+	],
+	"frames_of_animation":5,
+	"size_override":null,
+	"y_pos_override":null
+}

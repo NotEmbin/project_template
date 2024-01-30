@@ -1,0 +1,12 @@
+{
+	"id":"nightmare_fredbear",
+	"health":215,
+	"attacks":[
+		"fwb:freddles",
+		"fwb:mega_bite",
+		"fwb:regen_song"
+	],
+	"frames_of_animation":12,
+	"size_override":null,
+	"y_pos_override":0
+}

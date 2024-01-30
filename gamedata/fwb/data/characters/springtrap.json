@@ -1,0 +1,12 @@
+{
+	"id":"springtrap",
+	"health":230,
+	"attacks":[
+		"fwb:jumpscare_3",
+		"fwb:springlocks_2",
+		"fwb:slasher"
+	],
+	"frames_of_animation":12,
+	"size_override":null,
+	"y_pos_override":null
+}
