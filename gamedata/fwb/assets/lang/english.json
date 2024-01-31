@@ -135,7 +135,6 @@
 	"character.fwb.freddy":"Freddy Fazbear",
 	"character.fwb.fredbear":"Fredbear",
 	"character.fwb.jack_o_bonnie":"Jack o' Bonnie",
-	"character.fwb.small_scott":"Mini Scott",
 	"character.fwb.bonnie":"Bonnie",
 	"character.fwb.chica":"Chica",
 	"character.fwb.foxy":"Foxy",
@@ -207,6 +206,7 @@
 	"button.settings_menu":"Settings",
 	"button.changelogs":"Change Logs",
 	"menu.mode_selection":"Mode Selection",
+	"menu.extra_selection":"Other"
 	"menu.normal_mode.character_selection":"Create a team!",
 	"menu.single_character_mode.character_selection":"Select a character",
 	"menu.normal_mode.enemy_selection":"Choose who to fight!",
