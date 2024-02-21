@@ -1,0 +1,11 @@
+{
+	"health":220,
+	"attacks":[
+		"fwb:tiny_4th_wall",
+		"fwb:regen_song",
+		"fwb:punch"
+	],
+	"frames_of_animation":1,
+	"size_override":null,
+	"y_pos_override":null
+}
