@@ -6,5 +6,9 @@
 	"fwb/assets/textures/attack_buttons/":{
 		"prefix":"",
 		"suffix":"_attack_button"
+	},
+	"fwb/assets/textures/backgrounds/":{
+		"prefix":"background/",
+		"suffix":""
 	}
 }
