@@ -1,9 +1,12 @@
 {
 	"complete":[
-		"English"
+		"fwb:english"
 	],
-	"incomplete":[],
+	"incomplete":[
+		"fwb:joke"
+	],
 	"language_files":{
-		"English":"english.json"
+		"fwb:english":"english.json",
+		"fwb:joke":"joke.json"
 	}
 }
