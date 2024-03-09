@@ -1,5 +1,6 @@
 {
-	"fwb.menu.mode_selection":"fwb:overlays/fade_to_black",
-	"fwb.menu.world_mode_ui":"fwb:overlays/fade_to_black_loading",
-	"fwb.menu.world_mode_main_menu":"fwb:overlays/fade_to_black_loading"
+	"fwb.menu.mode_selection":true,
+	"fwb.menu.world_mode_ui":true,
+	"fwb.menu.world_mode_main_menu":true,
+	"fwb.menu.normal_mode":true
 }
