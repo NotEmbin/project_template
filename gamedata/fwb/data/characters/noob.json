@@ -1,0 +1,11 @@
+{
+	"health":185,
+	"attacks":[
+		"fwb:toxic_song",
+		"fwb:prize_ball",
+		"fwb:armor_song"
+	],
+	"frames_of_animation":1,
+	"size_override":null,
+	"y_pos_override":null
+}

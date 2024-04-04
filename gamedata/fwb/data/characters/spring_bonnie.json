@@ -1,0 +1,11 @@
+{
+	"health":230,
+	"attacks":[
+		"fwb:springlocks_2",
+		"fwb:jumpscare_3",
+		"fwb:instant_health_3"
+	],
+	"frames_of_animation":12,
+	"size_override":null,
+	"y_pos_override":null
+}

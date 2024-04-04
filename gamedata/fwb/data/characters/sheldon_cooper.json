@@ -1,0 +1,11 @@
+{
+	"health":69,
+	"attacks":[
+		"fwb:gas_leak",
+		"fwb:gas_leak",
+		"fwb:gas_leak"
+	],
+	"frames_of_animation":1,
+	"size_override":null,
+	"y_pos_override":null
+}

@@ -1,0 +1,11 @@
+{
+	"health":200,
+	"attacks":[
+		"fwb:buzzsaw",
+		"fwb:jumpscare_2",
+		"fwb:bow_shot"
+	],
+	"frames_of_animation":1,
+	"size_override":null,
+	"y_pos_override":null
+}

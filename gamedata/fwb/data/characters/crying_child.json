@@ -1,0 +1,11 @@
+{
+	"health":190,
+	"attacks":[
+		"fwb:prize_ball",
+		"fwb:balloons",
+		"fwb:regen_song"
+	],
+	"frames_of_animation":2,
+	"size_override":null,
+	"y_pos_override":null
+}

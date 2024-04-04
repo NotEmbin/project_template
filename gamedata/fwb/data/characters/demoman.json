@@ -1,0 +1,11 @@
+{
+	"health":250,
+	"attacks":[
+		"fwb:bottle",
+		"fwb:stickybomb",
+		"fwb:chargin_targe"
+	],
+	"frames_of_animation":1,
+	"size_override":null,
+	"y_pos_override":null
+}
