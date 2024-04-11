@@ -34,6 +34,11 @@
 			"file":"black_lava.wav",
 			"name":"geist_lair",
 			"loop":true
+		},
+		{
+			"file":"scott_boss_battle.mp3",
+			"name":"final_boss",
+			"loop":true
 		}
 	],
 	"sound_effects":[
