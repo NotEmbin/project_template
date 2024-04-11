@@ -26,11 +26,6 @@
 			"loop":true
 		},
 		{
-			"file":"loop_test.wav",
-			"name":"loop",
-			"loop":true
-		},
-		{
 			"file":"black_lava.wav",
 			"name":"geist_lair",
 			"loop":true
@@ -38,6 +33,11 @@
 		{
 			"file":"scott_boss_battle.mp3",
 			"name":"final_boss",
+			"loop":true
+		},
+		{
+			"file":"hurt2.mp3",
+			"name":"music_test",
 			"loop":true
 		}
 	],
@@ -81,6 +81,11 @@
 			"file":"4th_wall.wav",
 			"name":"4th_wall",
 			"loop":false
+		},
+		{
+			"file":"loop_test.wav",
+			"name":"loop",
+			"loop":true
 		}
 	]
 }
