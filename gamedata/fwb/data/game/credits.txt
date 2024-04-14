@@ -2,6 +2,8 @@
 Embin
 
 
+
+
 -- With Help From --
 names
 namesn
@@ -9,9 +11,13 @@ names
 namess
 
 
+
+
 -- Music --
 Leon Risken
 Wrathagar
+
+
 
 
 -- Special Thanks --
@@ -21,7 +27,13 @@ ddededodediamante
 
 
 
-Thanks YOU for playing!
+
+
+
+Thank YOU for playing!
+
+
+
 
 
 
