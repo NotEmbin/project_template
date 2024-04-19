@@ -1,0 +1,31 @@
+<required_argument>
+[optional_argument]
+
+
+
+- help
+Opens this webpage.
+
+
+- clear <logs/errors>
+<logs>: Clears the logs.
+<errors>: Clears any errors that have been received.
+Example: "clear errors"
+
+
+- log <text>
+<text>: Whatever is inputed here gets logged to the console.
+Example: "log something cool"
+
+
+- exportloaded
+Exports a list of all loaded skins, characters, enemies, attacks, and tags.
+
+
+- getdata <nsid/tick/username/protocol_version/numerical_version>
+<nsid>: Prints the game's NSID to the console.
+<tick>: Prints the current tick.
+<username>: Prints your username.
+<protocol_version>: Prints the game's current Protocol Version.
+<numerical_version>: Prints the game's current Numerical Version.
+Example: "getdata protocol_version"
