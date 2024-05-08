@@ -238,5 +238,18 @@
 	"setting.engine.turbo_mode":"Turbo Mode",
 	"setting.engine.selected_resource_packs":"Selected Resource Packs",
 	"setting.fwb.advanced_tooltips":"Advanced Tooltips",
-	"control.fwb.show_advanced_tooltip":"Force Show Advanced Tooltips"
+	"control.fwb.show_advanced_tooltips":"Force Show Advanced Tooltips",
+	"menu.controls.header":"Controls",
+	"menu.controls.change_keybind":"Change",
+	"menu.controls.change_keybind.header":"Choose a key...",
+	"key.shift":"Shift",
+	"key.control":"Control",
+	"key.enter":"Enter",
+	"key.backspace":"Backspace",
+	"key.delete":"Delete",
+	"key.space":"Spacebar",
+	"key.up arrow":"Up",
+	"key.down arrow":"Down",
+	"key.left arrow":"Left",
+	"key.right arrow":"Right"
 }
