@@ -4,5 +4,6 @@
 	"menu.fwb.world_mode_main_menu":true,
 	"menu.fwb.normal_mode":true,
 	"menu.settings":true,
-	"menu.controls":true
+	"menu.controls":true,
+	"menu.controls.change_keybind":true
 }

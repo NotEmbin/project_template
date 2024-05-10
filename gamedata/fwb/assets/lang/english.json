@@ -248,8 +248,10 @@
 	"key.backspace":"Backspace",
 	"key.delete":"Delete",
 	"key.space":"Spacebar",
-	"key.up arrow":"Up",
-	"key.down arrow":"Down",
-	"key.left arrow":"Left",
-	"key.right arrow":"Right"
+	"key.up":"Up",
+	"key.down":"Down",
+	"key.left":"Left",
+	"key.right":"Right",
+	"key.end":"End",
+	"key.home":"Home"
 }
