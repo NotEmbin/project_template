@@ -242,6 +242,7 @@
 	"menu.controls.header":"Controls",
 	"menu.controls.change_keybind":"Change",
 	"menu.controls.change_keybind.header":"Choose a key...",
+	"menu.audio_settings.header":"Audio Settings",
 	"key.shift":"Shift",
 	"key.control":"Ctrl",
 	"key.enter":"Enter",
