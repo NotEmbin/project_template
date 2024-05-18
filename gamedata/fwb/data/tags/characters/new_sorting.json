@@ -15,7 +15,6 @@
 		"fwb:withered_bonnie",
 		"fwb:withered_chica",
 		"fwb:withered_foxy",
-		"fwb:shadow_freddy",
 		"fwb:bb",
 		"fwb:jj",
 		"fwb:endo_01",
@@ -37,8 +36,16 @@
 		"fwb:jack_o_chica",
 		"fwb:animdude",
 		"fwb:crying_child",
+		"fwb:shadow_freddy",
 		"fwb:scott",
 		"fwb:angry_freddy",
-		"fwb:uncle_bonnie"
+		"fwb:uncle_bonnie",
+		"#fwb:from_minecraft",
+		"fwb:joe",
+		"fwb:ddededodediamante",
+		"#fwb:from_tf2",
+		"#fwb:from_roblox",
+		"fwb:epic_mario",
+		"fwb:sheldon_cooper"
 	]
 }
