@@ -1,8 +1,8 @@
 {
-	"id":"mic_toss",
-	"base_damage":20,
+	"base_damage":18,
+	"damage_variation":[-2,2],
 	"base_damage_to_self":0,
-	"attack_type":"generic_toss",
+	"attack_type":"generic.toss",
 	"can_crit":false,
 	"crit_damage_multiplier":16,
 	"poison_enemy":false,

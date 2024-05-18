@@ -6,6 +6,8 @@
 		"fwb:evil_bear_chomp",
 		"fwb:mega_bite"
 	],
+	"attack_delay":5,
+	"power":4,
 	"frames_of_animation":4,
 	"size_override":null,
 	"y_pos_override":null,

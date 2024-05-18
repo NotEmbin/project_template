@@ -1,7 +1,7 @@
 {
 	"id":"jumpscare_3",
-	"base_damage":15,
-	"base_damage_to_self":-15,
+	"base_damage":90,
+	"base_damage_to_self":-90,
 	"attack_type":"jumpscare_attack",
 	"can_crit":false,
 	"crit_damage_multiplier":1,

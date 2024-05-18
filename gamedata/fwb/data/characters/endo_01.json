@@ -1,0 +1,11 @@
+{
+	"health":200,
+	"attacks":[
+		"fwb:endo_army",
+		"fwb:bite_2",
+		"fwb:prize_ball_2"
+	],
+	"frames_of_animation":10,
+	"size_override":null,
+	"y_pos_override":null
+}

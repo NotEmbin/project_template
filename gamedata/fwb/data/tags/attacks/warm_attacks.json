@@ -1,6 +1,7 @@
 {
 	"replace":false,
 	"data":[
-		"fwb:jack_o_bomb"
+		"fwb:jack_o_bomb",
+		"fwb:fire_charges"
 	]
 }

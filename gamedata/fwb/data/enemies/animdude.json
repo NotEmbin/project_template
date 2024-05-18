@@ -1,10 +1,12 @@
 {
 	"id":"animdude",
-	"health":1200,
+	"health":100000,
 	"attacks":[
 		"fwb:strong_hook",
 		"fwb:4th_wall"
 	],
+	"attack_delay":12,
+	"power":20,
 	"frames_of_animation":20,
 	"size_override":null,
 	"y_pos_override":null,

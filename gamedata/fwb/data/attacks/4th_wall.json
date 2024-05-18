@@ -1,0 +1,10 @@
+{
+	"base_damage":4000,
+	"base_damage_to_self":0,
+	"attack_type":"generic.toss.no_spin",
+	"can_crit":false,
+	"crit_damage_multiplier":16,
+	"poison_enemy":false,
+	"color":"purple",
+	"damage_variation":[-400,450]
+}

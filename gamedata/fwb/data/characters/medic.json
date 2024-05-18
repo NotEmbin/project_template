@@ -1,0 +1,11 @@
+{
+	"health":230,
+	"attacks":[
+		"fwb:instant_health_2",
+		"fwb:ubercharge",
+		"fwb:gift_boxes"
+	],
+	"frames_of_animation":1,
+	"size_override":null,
+	"y_pos_override":null
+}
