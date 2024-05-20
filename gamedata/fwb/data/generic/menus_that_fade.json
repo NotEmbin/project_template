@@ -6,5 +6,8 @@
 	"menu.settings":true,
 	"menu.controls":true,
 	"menu.controls.change_keybind":true,
-	"menu.audio_settings":true
+	"menu.audio_settings":true,
+	"menu.video_settings":true,
+	"menu.advanced_settings":true,
+	"menu.effect_settings":true
 }

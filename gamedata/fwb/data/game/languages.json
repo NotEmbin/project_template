@@ -8,5 +8,9 @@
 	"language_files":{
 		"fwb:english":"english.json",
 		"fwb:joke":"joke.json"
+	},
+	"language_names":{
+		"fwb:english":"English",
+		"fwb:joke":"English (Joke)"
 	}
 }
