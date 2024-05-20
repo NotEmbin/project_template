@@ -238,7 +238,7 @@
 	"setting.engine.contrast.true":"Enabled",
 	"setting.engine.contrast.false":"Disabled",
 	"setting.engine.background":"Menu Background",
-	"setting.engine.background.0":"None (Black)",
+	"setting.engine.background.0":"None",
 	"setting.engine.background.1":"Default",
 	"setting.engine.dark_or_light_mode":"Color",
 	"setting.engine.effects":"Visual Effects",
