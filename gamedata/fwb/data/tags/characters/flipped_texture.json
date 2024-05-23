@@ -1,5 +1,8 @@
 {
 	"data":[
-		"fwb:paper_pals"
+		"fwb:paper_pals",
+		"fwb:medic",
+		"fwb:scout",
+		"fwb:spy"
 	]
 }
