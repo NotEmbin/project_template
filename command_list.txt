@@ -1,5 +1,5 @@
-<required_argument>
-[optional_argument]
+<> = argument is required
+[] = argument is optional
 
 
 
@@ -28,4 +28,12 @@ Exports a list of all loaded skins, characters, enemies, attacks, and tags.
 <username>: Prints your username.
 <protocol_version>: Prints the game's current Protocol Version.
 <numerical_version>: Prints the game's current Numerical Version.
-Example: "getdata protocol_version"
+Examples: "getdata protocol_version", "getdata tick"
+
+
+- searchparam <create/delete> <name> [value]
+<create>: create a search parameter
+<delete>: delete a search parameter
+<name>: name of search parameter
+[value]: value for search parameter
+Examples: "searchparam create goober 23", "searchparam delete goop"
