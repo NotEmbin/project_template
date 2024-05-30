@@ -1,5 +1,4 @@
 {
-	"id":"evilbear",
 	"health":500,
 	"attacks":[
 		"fwb:hook",

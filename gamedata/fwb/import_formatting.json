@@ -10,5 +10,9 @@
 	"fwb/assets/textures/backgrounds/":{
 		"prefix":"background/",
 		"suffix":""
+	},
+	"fwb/assets/textures/enemies/":{
+		"prefix":"enemy/",
+		"suffix":""
 	}
 }
