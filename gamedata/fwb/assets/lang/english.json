@@ -259,6 +259,7 @@
 	"menu.audio_settings.header":"Audio Settings",
 	"menu.video_settings.header":"Graphics Settings",
 	"menu.advanced_settings.header":"Misc. Settings",
+	"menu.settings.header":"Settings",
 	"key.shift":"Shift",
 	"key.control":"Ctrl",
 	"key.enter":"Enter",
