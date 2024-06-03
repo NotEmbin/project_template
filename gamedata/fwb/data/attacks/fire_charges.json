@@ -5,7 +5,7 @@
 	"swarm_amount":12,
 	"swarm_rapid_fire":true,
 	"can_crit":true,
-	"crit_damage_multiplier":10,,
+	"crit_damage_multiplier":10,
 	"crit_chance":0.05,
 	"poison_enemy":false,
 	"is_enemy_attack":false,

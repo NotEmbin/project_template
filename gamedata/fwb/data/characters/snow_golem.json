@@ -1,7 +1,7 @@
 {
 	"health":150,
 	"attacks":[
-		"fwb:snowballs",
+		"fwb:snow_balls",
 		"fwb:instant_health",
 		"fwb:prize_ball"
 	],
