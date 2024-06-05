@@ -1,7 +1,7 @@
 {
 	"health":270,
 	"attacks":[
-		"fwb:rocket",
+		"fwb:rocket_launcher",
 		"fwb:instant_health",
 		"fwb:market_gardener"
 	],
