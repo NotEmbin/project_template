@@ -1,7 +1,8 @@
 {
 	"files":[
 		"fwb/assets/fallback.png",
-		"fwb/assets/empty.png"
+		"fwb/assets/empty.png",
+		"fwb/assets/fallback_2.png",
 	],
 	"folders":[
 		"fwb/assets/textures/misc/",

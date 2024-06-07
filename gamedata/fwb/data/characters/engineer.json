@@ -3,7 +3,7 @@
 	"attacks":[
 		"fwb:dispenser",
 		"fwb:wrench",
-		"fwb:neon_wall"
+		"fwb:sentry"
 	],
 	"frames_of_animation":1,
 	"size_override":null,

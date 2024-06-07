@@ -1,0 +1,11 @@
+{
+	"base_damage":130,
+	"base_damage_to_self":0,
+	"attack_type":"springlocks",
+	"can_crit":false,
+	"crit_damage_multiplier":4,
+	"crit_chance":0.1,
+	"poison_enemy":false,
+	"is_enemy_attack":false,
+	"color":"red"
+}

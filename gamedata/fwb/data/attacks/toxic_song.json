@@ -1,0 +1,11 @@
+{
+	"base_damage":5,
+	"damage_variation":[-1,1],
+	"base_damage_to_self":0,
+	"attack_type":"toxic_song",
+	"can_crit":false,
+	"crit_damage_multiplier":4,
+	"poison_enemy":true,
+	"is_enemy_attack":false,
+	"color":"green"
+}

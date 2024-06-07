@@ -1,0 +1,10 @@
+{
+	"base_damage":0,
+	"base_damage_to_self":999999,
+	"attack_type":"gas_leak",
+	"can_crit":false,
+	"crit_damage_multiplier":1,
+	"poison_enemy":false,
+	"color":"green",
+	"is_enemy_attack":false
+}

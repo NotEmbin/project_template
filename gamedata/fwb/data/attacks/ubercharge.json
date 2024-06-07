@@ -1,0 +1,21 @@
+{
+	"base_damage":0,
+	"base_damage_to_self":0,
+	"attack_type":"ubercharge",
+	"can_crit":false,
+	"crit_damage_multiplier":4,
+	"poison_enemy":false,
+	"color":"pink",
+	"apply_effect":[
+		{
+			"effect":"regen",
+			"duration":15,
+			"intensity":8
+		}
+	],
+	"boost_stats":{
+		"speed":50,
+		"attack":50,
+		"defense":10
+	}
+}
