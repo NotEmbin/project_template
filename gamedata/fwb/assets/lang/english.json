@@ -282,7 +282,7 @@
 	"setting.fwb.menu_fade_duration.0":"Slow",
 	"setting.fwb.menu_fade_duration.1":"Default",
 	"setting.fwb.menu_fade_duration.2":"Fast",
-	"setting.fwb.menu_fade_duration.3":"Really Fast",
+	"setting.fwb.menu_fade_duration.3":"Disabled",
 	"control.fwb.show_advanced_tooltips":"Force Show Advanced Tooltips",
 	"menu.controls.header":"Controls",
 	"menu.controls.change_keybind":"Change",
