@@ -10,6 +10,5 @@
 	"frames_of_animation":4,
 	"size_override":null,
 	"y_pos_override":null,
-	"one_shot_attacks_work":true,
-	"is_boss":false
+	"one_shot_attacks_work":true
 }

@@ -1,0 +1,11 @@
+{
+	"attacks":"attack",
+	"characters":"character",
+	"enemies":"enemy",
+	"chips":"chip",
+	"bytes":"byte",
+	"areas":"area",
+	"tiles":"tile",
+	"buildables":"buildable",
+	"levels":"level"
+}

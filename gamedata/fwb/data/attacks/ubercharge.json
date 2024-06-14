@@ -3,6 +3,7 @@
 	"base_damage_to_self":0,
 	"attack_type":"ubercharge",
 	"can_crit":false,
+	"cooldown":5,
 	"crit_damage_multiplier":4,
 	"poison_enemy":false,
 	"color":"pink",

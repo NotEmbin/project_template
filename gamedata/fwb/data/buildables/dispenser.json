@@ -1,0 +1,13 @@
+{
+	"hp":235,
+	"apply_effect":[
+		{
+			"effect":"regen",
+			"intensity":4
+		}
+	],
+	"boost_stats":{
+		"speed":15,
+		"defense":25
+	}
+}

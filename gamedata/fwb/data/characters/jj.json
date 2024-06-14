@@ -3,7 +3,7 @@
 	"attacks":[
 		"fwb:balloons",
 		"fwb:regen_song",
-		"fwb:slasher"
+		"fwb:unscrew"
 	],
 	"frames_of_animation":11,
 	"size_override":null,

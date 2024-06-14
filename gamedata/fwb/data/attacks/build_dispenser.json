@@ -1,0 +1,10 @@
+{
+	"base_damage":0,
+	"base_damage_to_self":0,
+	"attack_type":"buildable",
+	"buildable":"fwb:dispenser",
+	"can_crit":false,
+	"crit_damage_multiplier":4,
+	"poison_enemy":false,
+	"color":"purple"
+}

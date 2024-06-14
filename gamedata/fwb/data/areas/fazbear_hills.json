@@ -1,10 +1,11 @@
 {
 	"can_warp":true,
+	"warp_id":1,
 	"warp_location":{
-		"map":"3x2.json",
+		"level":"fwb:3x2",
 		"x":0,
 		"y":0
 	},
 	"music":"fwb:music/fazbear_hills",
-	"overlay":"none"
+	"overlay":null
 }

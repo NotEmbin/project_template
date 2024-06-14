@@ -1,5 +1,4 @@
 {
-	"id":"animdude_the_revenge",
 	"health":6000,
 	"attacks":[
 		"fwb:strong_hook",
@@ -11,6 +10,5 @@
 	"frames_of_animation":1,
 	"size_override":null,
 	"y_pos_override":null,
-	"one_shot_attacks_work":true,
-	"is_boss":true
+	"one_shot_attacks_work":true
 }

@@ -1,9 +1,9 @@
 {
 	"health":200,
 	"attacks":[
-		"fwb:dispenser",
+		"fwb:build_dispenser",
 		"fwb:wrench",
-		"fwb:sentry"
+		"fwb:build_sentry"
 	],
 	"frames_of_animation":1,
 	"size_override":null,
