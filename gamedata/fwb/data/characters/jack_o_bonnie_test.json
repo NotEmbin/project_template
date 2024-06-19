@@ -1,0 +1,12 @@
+{
+	"id":"hl2:jack_o_bonnie",
+	"health":260,
+	"attacks":[
+		"fwb:jack_o_bomb",
+		"fwb:mega_bite",
+		"fwb:slasher"
+	],
+	"frames_of_animation":11,
+	"size_override":null,
+	"y_pos_override":null
+}
