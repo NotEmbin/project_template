@@ -22,8 +22,8 @@ Example: "log something cool"
 Exports a list of all loaded skins, characters, enemies, attacks, and tags.
 
 
-- getdata <nsid/tick/username/protocol_version/numerical_version>
-<nsid>: Prints the game's NSID to the console.
+- getdata <namespace/tick/username/protocol_version/numerical_version>
+<namespace>: Prints the game's namespace to the console.
 <tick>: Prints the current tick.
 <username>: Prints your username.
 <protocol_version>: Prints the game's current Protocol Version.

@@ -55,7 +55,7 @@
 	"credits.publisher":"Published by:",
 	"credits.help_from":"Help from:",
 	"credits.special_thanks":"Special Thanks:",
-	"tooltip.hp":" HP",
+	"tooltip.hp":"$hp HP",
 	"tooltip.random_character":"Random Character",
 	"tooltip.last_played":"Last played",
 	"tooltip.version":"Version",
