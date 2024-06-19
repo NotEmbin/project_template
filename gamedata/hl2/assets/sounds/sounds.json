@@ -1,0 +1,17 @@
+{
+	"music":[
+		{
+			"file":"loop_test2.wav",
+			"name":"looptessy",
+			"loop":false
+		}
+	],
+	"sound_effects":[
+		{
+			"file":"loop_test.wav",
+			"name":"looptes",
+			"loop":false
+		}
+	]
+}
+	
