@@ -7,5 +7,6 @@
 		"y":0
 	},
 	"music":"fwb:music/fazbear_hills",
+	"battle_background":"fwb:background/fazbear_hills",
 	"overlay":null
 }
