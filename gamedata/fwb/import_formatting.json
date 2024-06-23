@@ -13,6 +13,7 @@
 	},
 	"fwb/assets/textures/enemies/":{
 		"prefix":"enemy/",
-		"suffix":""
+		"suffix":"",
+		"apply_to_sub_directories":true
 	}
 }
