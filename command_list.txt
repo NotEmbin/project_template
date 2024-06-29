@@ -37,3 +37,13 @@ Examples: "getdata protocol_version", "getdata tick"
 <name>: name of search parameter
 [value]: value for search parameter
 Examples: "searchparam create goober 23", "searchparam delete goop"
+
+
+- broadcast <broadcast_name>
+<broadcast_name>: name of the broadcast you want to trigger
+Examples: "broadcast menu.fwb.title_screen", "broadcast !reset_settings"
+You can also use "bc" as an alternative to "broadcast"
+
+
+- prev
+Runs the last command you used
