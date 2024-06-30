@@ -1,7 +1,8 @@
 {
 	"fwb/assets/textures/character_icons/":{
 		"prefix":"",
-		"suffix":"/icon"
+		"suffix":"/icon",
+		"apply_to_sub_directories":true
 	},
 	"fwb/assets/textures/attack_buttons/":{
 		"prefix":"",
