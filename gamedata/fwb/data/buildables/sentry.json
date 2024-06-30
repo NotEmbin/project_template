@@ -1,5 +1,6 @@
 {
 	"hp":235,
 	"sentry":true,
-	"damage":8
+	"damage":8,
+	"build_sound":"fwb:sound_effects/engineer_build_sentry"
 }

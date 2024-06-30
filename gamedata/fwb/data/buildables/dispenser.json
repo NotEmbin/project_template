@@ -9,5 +9,6 @@
 	"boost_stats":{
 		"speed":15,
 		"defense":25
-	}
+	},
+	"build_sound":"fwb:sound_effects/engineer_build_dispenser"
 }

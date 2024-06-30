@@ -7,7 +7,6 @@
 	"attack_delay":7,
 	"power":5,
 	"frames_of_animation":20,
-	"size_override":null,
-	"y_pos_override":null,
-	"one_shot_attacks_work":true
+	"one_shot_attacks_work":true,
+	"texture_override":"fwb:enemy/animdude"
 }
