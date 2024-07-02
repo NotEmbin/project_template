@@ -1,0 +1,14 @@
+{
+	"health":200000,
+	"attacks":[
+		"fwb:strong_hook",
+		"fwb:4th_wall",
+		"fwb:alarm",
+		"fwb:snow_balls",
+		"fwb:mega_bite"
+	],
+	"attack_delay":7,
+	"power":25,
+	"frames_of_animation":10,
+	"one_shot_attacks_work":true
+}

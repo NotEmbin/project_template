@@ -1,12 +1,10 @@
 {
-	"can_warp":true,
-	"warp_id":1,
+	"music":"fwb:music/fazbear_hills",
 	"warp_location":{
 		"level":"fwb:3x2",
 		"x":0,
 		"y":0
 	},
-	"music":"fwb:music/fazbear_hills",
 	"battle_background":"fwb:background/fazbear_hills",
 	"overlay":null
 }

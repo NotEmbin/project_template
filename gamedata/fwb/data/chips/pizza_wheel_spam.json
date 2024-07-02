@@ -1,0 +1,8 @@
+{
+	"type":"perform_attack_every_interval",
+	"data":{
+		"attack":"fwb:pizza_wheel",
+		"interval_in_seconds":8,
+		"interval_variation":[-1,1]
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"type":"apply_effects",
+	"data":[
+		{
+			"effect":"regen",
+			"duration":2147483647,
+			"intensity":2
+		}
+	]
+}
