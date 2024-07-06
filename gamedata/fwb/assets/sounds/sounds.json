@@ -39,6 +39,11 @@
 			"file":"hurt2.mp3",
 			"name":"music_test",
 			"loop":true
+		},
+		{
+			"file":"ice_cave.ogg",
+			"name":"ice_cave",
+			"loop":true
 		}
 	],
 	"sound_effects":[
