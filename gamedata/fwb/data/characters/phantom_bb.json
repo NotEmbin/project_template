@@ -1,0 +1,9 @@
+{
+	"health":170,
+	"attacks":[
+		"fwb:balloons",
+		"fwb:toxic_bite",
+		"fwb:jumpscare_3"
+	],
+	"frames_of_animation":10
+}

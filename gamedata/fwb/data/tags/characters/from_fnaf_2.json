@@ -1,5 +1,4 @@
 {
-	"replace":false,
 	"data":[
 		"fwb:toy_freddy",
 		"fwb:toy_bonnie",
@@ -13,6 +12,7 @@
 		"fwb:endo_02",
 		"fwb:bb",
 		"fwb:jj",
-		"fwb:shadow_freddy"
+		"fwb:shadow_freddy",
+		"fwb:shadow_bonnie"
 	]
 }

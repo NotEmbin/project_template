@@ -1,7 +1,7 @@
 {
-	"replace":false,
 	"data":[
 		"fwb:mangle",
-		"fwb:phantom_mangle"
+		"fwb:phantom_mangle",
+		"fwb:funtime_foxy"
 	]
 }

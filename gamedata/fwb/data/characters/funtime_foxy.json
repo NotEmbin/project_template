@@ -1,0 +1,9 @@
+{
+	"health":235,
+	"attacks":[
+		"fwb:happy_jam",
+		"fwb:instant_health_3",
+		"fwb:gift_boxes"
+	],
+	"frames_of_animation":12
+}

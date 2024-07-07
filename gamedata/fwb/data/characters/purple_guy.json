@@ -1,0 +1,9 @@
+{
+	"health":240,
+	"attacks":[
+		"fwb:slasher",
+		"fwb:buzzsaw",
+		"fwb:armor_song"
+	],
+	"frames_of_animation":2
+}
