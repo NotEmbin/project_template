@@ -404,5 +404,14 @@
 	"loading_gag.fwb.nightmare_foxy":"\"Yeah I'll have 1 corndog...\"",
 	"loading_gag.fwb.nightmare_freddy":"Can you not.",
 	"loading_gag.fwb.funtime_foxy":"👀\n👅",
-	"loading_gag.fwb.mr_chipper":"Loves tap water."
+	"loading_gag.fwb.mr_chipper":"Loves tap water.",
+	"data_registry.characters":"character",
+	"data_registry.attacks":"attack",
+	"data_registry.enemies":"enemy",
+	"data_registry.chips":"chip",
+	"data_registry.bytes":"byte",
+	"data_registry.areas":"area",
+	"data_registry.tiles":"tile",
+	"data_registry.buildables":"buildable",
+	"data_registry.levels":"level"
 }
