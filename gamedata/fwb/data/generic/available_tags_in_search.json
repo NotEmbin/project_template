@@ -49,5 +49,6 @@
 	"areas":[],
 	"tiles":[],
 	"buildables":[],
-	"levels":[]
+	"levels":[],
+	"entities":[]
 }

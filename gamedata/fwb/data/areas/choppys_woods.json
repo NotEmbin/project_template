@@ -1,0 +1,10 @@
+{
+	"music":"fwb:music/fazbear_hills",
+	"warp_location":{
+		"level":"fwb:3x1",
+		"x":0,
+		"y":0
+	},
+	"battle_background":"fwb:background/choppys_woods",
+	"overlay":null
+}
