@@ -16,5 +16,10 @@
 		"prefix":"enemy/",
 		"suffix":"",
 		"apply_to_sub_directories":true
+	},
+	"fwb/assets/textures/attacks/":{
+		"prefix":"attack/",
+		"suffix":"",
+		"apply_to_sub_directories":true
 	}
 }

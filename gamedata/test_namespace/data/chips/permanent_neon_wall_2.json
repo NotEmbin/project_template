@@ -1,8 +1,0 @@
-{
-	"type":"perform_attack_every_interval",
-	"data":{
-		"attack":"fwb:neon_wall_2",
-		"interval_in_seconds":1,
-		"interval_variation":[0,0]
-	}
-}
