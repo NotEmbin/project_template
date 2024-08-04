@@ -1,11 +1,9 @@
 {
-	"health":150,
+	"health":160,
 	"attacks":[
 		"fwb:instant_health",
 		"fwb:bite",
 		"fwb:jumpscare"
 	],
-	"frames_of_animation":11,
-	"size_override":null,
-	"y_pos_override":null
+	"frames_of_animation":11
 }
