@@ -412,5 +412,9 @@
 	"loading_gag.fwb.mr_chipper":"Loves tap water.",
 	"loading_gag.fwb.joella":"The Love of Joe's Life",
 	"loading_gag.fwb.enderman":"Watch your blocks...",
-	"loading_gag.fwb.phantom_puppet":"You're seeing things, mate."
+	"loading_gag.fwb.phantom_puppet":"You're seeing things, mate.",
+	"chip_rarity.common":"Common",
+	"chip_rarity.uncommon":"Uncommon",
+	"chip_rarity.rare":"Rare",
+	"chip_rarity.no_rarity":"No rarity defined!"
 }
