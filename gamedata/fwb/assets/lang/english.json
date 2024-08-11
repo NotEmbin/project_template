@@ -417,5 +417,9 @@
 	"chip_rarity.common":"Common",
 	"chip_rarity.uncommon":"Uncommon",
 	"chip_rarity.rare":"Rare",
-	"chip_rarity.no_rarity":"No rarity defined!"
+	"chip_rarity.no_rarity":"No rarity defined!",
+	"warning.info":"Click anywhere to continue",
+	"tag_viewer.view":"View",
+	"tag_viewer.header":"Tags",
+	"button.tag_viewer":"Tag viewer"
 }
