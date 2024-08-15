@@ -421,5 +421,6 @@
 	"warning.info":"Click anywhere to continue",
 	"tag_viewer.view":"View",
 	"tag_viewer.header":"Tags",
-	"button.tag_viewer":"Tag viewer"
+	"button.tag_viewer":"Tag viewer",
+	"stat.fwb.deaths":"Number of Deaths"
 }
