@@ -1,16 +1,12 @@
 {
-	"complete":[
-		"fwb:english"
+	"languages":[
+		"english",
+		"joke"
 	],
-	"incomplete":[
-		"fwb:joke"
-	],
-	"language_files":{
-		"fwb:english":"english.json",
-		"fwb:joke":"joke.json"
-	},
-	"language_names":{
-		"fwb:english":"English",
-		"fwb:joke":"English (Joke)"
+	"names":{
+		"english":"English (US)",
+		"joke":"English (Funny* Edition)",
+		"spanish":"Español",
+		"english_uk":"English (UK)"
 	}
 }

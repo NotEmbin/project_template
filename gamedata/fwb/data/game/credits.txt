@@ -1,5 +1,6 @@
--- Created by ---
+-- Created by --
 Embin
+
 
 
 
@@ -13,9 +14,11 @@ namess
 
 
 
+
 -- Music --
 Leon Risken
 Wrathagar
+
 
 
 
@@ -30,7 +33,18 @@ ddededodediamante
 
 
 
+
 Thank YOU for playing!
+
+
+
+
+
+
+
+
+
+
 
 
 
