@@ -1,49 +1,55 @@
 {
 	"music":[
 		{
-			"file":"title_screen_theme.ogg",
+			"external":"https://notembin.github.io/games/fwb/music/title_screen_theme.ogg",
 			"name":"title_theme",
 			"loop":true
 		},
 		{
-			"file":"battle_theme.ogg",
+			"external":"https://notembin.github.io/games/fwb/music/battle_theme.ogg",
 			"name":"battle",
 			"loop":true
 		},
 		{
-			"file":"challenger_music.ogg",
+			"external":"https://notembin.github.io/games/fwb/music/challenger_music.ogg",
 			"name":"challenger_battle",
-			"loop":true
+			"loop":true,
+			"load_on_use":true
 		},
 		{
-			"file":"victory_music.ogg",
+			"external":"https://notembin.github.io/games/fwb/music/victory_music.ogg",
 			"name":"victory",
 			"loop":true
 		},
 		{
-			"file":"city_theme.ogg",
+			"external":"https://notembin.github.io/games/fwb/music/city_theme.ogg",
 			"name":"dialogue_music",
-			"loop":true
+			"loop":true,
+			"load_on_use":true
 		},
 		{
-			"file":"black_lava.wav",
+			"external":"https://notembin.github.io/games/fwb/music/black_lava.wav",
 			"name":"geist_lair",
-			"loop":true
+			"loop":true,
+			"load_on_use":true
 		},
 		{
-			"file":"scott_boss_battle.mp3",
+			"external":"https://notembin.github.io/games/fwb/music/scott_boss_battle.mp3",
 			"name":"final_boss",
-			"loop":true
+			"loop":true,
+			"load_on_use":true
 		},
 		{
-			"file":"hurt2.mp3",
+			"external":"https://notembin.github.io/games/fwb/music/hurt2.mp3",
 			"name":"music_test",
-			"loop":true
+			"loop":true,
+			"load_on_use":true
 		},
 		{
-			"file":"ice_cave.ogg",
+			"external":"https://notembin.github.io/games/fwb/music/ice_cave.ogg",
 			"name":"ice_cave",
-			"loop":true
+			"loop":true,
+			"load_on_use":true
 		}
 	],
 	"sound_effects":[
