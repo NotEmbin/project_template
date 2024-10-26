@@ -1,9 +1,9 @@
 {
-	"health":18,
+	"health":20,
 	"attacks":[
 		"fwb:hook"
 	],
-	"attack_delay":5,
+	"attack_delay":6,
 	"power":1,
 	"frames_of_animation":10,
 	"one_shot_attacks_work":true

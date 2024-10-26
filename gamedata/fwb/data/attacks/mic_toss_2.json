@@ -8,4 +8,6 @@
 	"poison_enemy":false,
 	"is_enemy_attack":false,
 	"color":"blaze_orange"
+	"texture_width":70,
+	"texture_height":70
 }

@@ -6,5 +6,7 @@
 	"crit_damage_multiplier":16,
 	"poison_enemy":false,
 	"color":"purple",
-	"damage_variation":[-400,450]
+	"damage_variation":[-400,450],
+	"texture_width":100,
+	"texture_height":192
 }

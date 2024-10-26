@@ -6,5 +6,8 @@
 	"crit_damage_multiplier":4,
 	"poison_enemy":false,
 	"color":"purple",
-	"damage_variation":[-25,15]
+	"damage_variation":[-25,15],
+	"texture_width":50,
+	"texture_height":96,
+	"texture_override":"fwb:attack/4th_wall"
 }
