@@ -22,18 +22,6 @@
 			"loop":true
 		},
 		{
-			"external":"https://notembin.github.io/games/fwb/music/city_theme.ogg",
-			"name":"dialogue_music",
-			"loop":true,
-			"load_on_use":true
-		},
-		{
-			"external":"https://notembin.github.io/games/fwb/music/black_lava.wav",
-			"name":"geist_lair",
-			"loop":true,
-			"load_on_use":true
-		},
-		{
 			"external":"https://notembin.github.io/games/fwb/music/scott_boss_battle.mp3",
 			"name":"final_boss",
 			"loop":true,

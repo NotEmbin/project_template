@@ -64,6 +64,8 @@
 	"tooltip.scroll_up":"Scroll Up",
 	"tooltip.scroll_down":"Scroll Down",
 	"tooltip.coming_soon":"Coming soon...",
+	"tooltip.character_hidden":"Character hidden",
+	"tooltip.character_disabled":"Character disabled",
 	"attack.description_fallback":"No description available for this attack.",
 	"attack.fwb.jumpscare":"Jumpscare",
 	"attack.fwb.mic_toss":"Mic Toss",
@@ -442,6 +444,8 @@
 	"change_log.changes.experimental":"Experimental Changes",
 	"change_log.bugs_fixed":"Bug Fixes",
 	"change_log.reupload":"Reupload",
+	"change_log.reupload_2":"Reupload 2",
+	"change_log.reupload_3":"Reupload 3",
 	"change_log.release_date":"Release date: $rd",
 	"change_log.release_date.reupload":"Reupload: $ru1rd",
 	"change_log.release_date.reupload_2":"Reupload 2: $ru2rd",
@@ -451,11 +455,12 @@
 	"change_log.numerical_version":"Numerical Version: $nv",
 	"change_log.version":"Version",
 	"change_log.version2":"Version: $v",
+	"change_log.other":"Other",
 	"save_game.download_file":"Download save file",
 	"save_game.local_storage":"Save to Local Storage",
 	"save_game.local_storage.warning":"Note: Your browser can clear local storage at any time, so this save method is not recommended.",
 	"test":"testing test $a test",
 	"menu.normal_mode.confirm_party.header":"Confirm Party",
-	"menu.normal_mode.confirm_party.confirm":"Confirm",
-	"menu.normal_mode.confirm_party.cancel":"Cancel"
+	"button.normal_mode.confirm_party.confirm":"Confirm",
+	"button.normal_mode.confirm_party.cancel":"Cancel"
 }
