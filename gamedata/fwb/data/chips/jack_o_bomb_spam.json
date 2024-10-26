@@ -1,8 +1,0 @@
-{
-	"type":"perform_attack_every_interval",
-	"data":{
-		"attack":"fwb:jack_o_bombs",
-		"interval_in_seconds":10,
-		"interval_variation":[-2,3]
-	}
-}
