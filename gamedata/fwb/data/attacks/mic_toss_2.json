@@ -1,5 +1,5 @@
 {
-	"base_damage":105,
+	"base_damage":145,
 	"damage_variation":[-5,10],
 	"base_damage_to_self":0,
 	"attack_type":"generic.toss",

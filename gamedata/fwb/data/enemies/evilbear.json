@@ -1,5 +1,5 @@
 {
-	"health":500,
+	"health":550,
 	"attacks":[
 		"fwb:hook",
 		"fwb:evil_bear_chomp",
@@ -8,7 +8,5 @@
 	"attack_delay":5,
 	"power":4,
 	"frames_of_animation":4,
-	"size_override":null,
-	"y_pos_override":null,
 	"one_shot_attacks_work":true
 }
