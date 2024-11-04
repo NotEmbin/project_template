@@ -110,6 +110,26 @@
 			"file":"ukulele_g.wav",
 			"name":"ukulele.4",
 			"loop":false
+		},
+		{
+			"file":"gun_empty.mp3",
+			"name":"ui_hover",
+			"loop":false
+		},
+		{
+			"file":"alarm.wav",
+			"name":"alarm",
+			"loop":false
+		},
+		{
+			"file":"antiv.wav",
+			"name":"anti_virus",
+			"loop":false
+		},
+		{
+			"file":"shock.wav",
+			"name":"shock",
+			"loop":false
 		}
 	]
 }

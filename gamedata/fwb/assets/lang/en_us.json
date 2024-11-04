@@ -316,6 +316,7 @@
 	"setting.engine.animated_text_resolution_type.1":"Capped",
 	"setting.engine.animated_text_resolution_type.2":"Fixed",
 	"setting.fwb.blur":"Blur Effect",
+	"setting.engine.screen_shake_intensity":"Screen Shake Intensity",
 	"control.engine.confirm_prompt":"Confirm Prompt",
 	"control.engine.cancel_prompt":"Cancel Prompt",
 	"control.engine.restart_game":"Restart Game",
