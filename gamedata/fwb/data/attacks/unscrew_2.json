@@ -8,5 +8,13 @@
 	"crit_chance":0.25,
 	"crit_chance_boss":0.005,
 	"poison_enemy":false,
-	"color":"black"
+	"color":"black",
+	"random_textures":[
+		"fwb:attack/screw_1",
+		"fwb:attack/screw_2",
+		"fwb:attack/screw_3",
+		"fwb:attack/spring"
+	],
+	"texture_width":70,
+	"texture_height":70
 }

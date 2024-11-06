@@ -1,10 +1,11 @@
 {
 	"base_damage":300,
 	"base_damage_to_self":-300,
-	"attack_type":"jumpscare_attack",
+	"attack_type":"jumpscare",
 	"can_crit":true,
 	"crit_damage_multiplier":10,
 	"crit_chance":0.05,
 	"poison_enemy":false,
-	"color":"black"
+	"color":"black",
+	"texture_override":"fwb:attack/jumpscare"
 }

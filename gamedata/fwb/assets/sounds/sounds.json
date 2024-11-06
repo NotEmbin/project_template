@@ -74,7 +74,8 @@
 		{
 			"file":"bad_pizza.wav",
 			"name":"bad_pizza",
-			"loop":false
+			"loop":false,
+			"volume":75
 		},
 		{
 			"file":"4th_wall.wav",
@@ -129,6 +130,26 @@
 		{
 			"file":"shock.wav",
 			"name":"shock",
+			"loop":false
+		},
+		{
+			"file":"fnaf2scream.mp3",
+			"name":"jumpscare_2",
+			"loop":false
+		},
+		{
+			"file":"fnaf3scream.mp3",
+			"name":"jumpscare_3",
+			"loop":false
+		},
+		{
+			"file":"fnaf4scream.mp3",
+			"name":"jumpscare_4",
+			"loop":false
+		},
+		{
+			"file":"jumpscareshort.mp3",
+			"name":"jumpscare",
 			"loop":false
 		}
 	]
