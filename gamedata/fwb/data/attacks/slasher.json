@@ -7,5 +7,8 @@
 	"crit_damage_override":99999,
 	"crit_chance":0.01,
 	"poison_enemy":false,
-	"color":"black"
+	"color":"black",
+	"texture_width":200,
+	"texture_height":75,
+	"toss_duration":0.4
 }

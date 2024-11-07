@@ -9,5 +9,6 @@
 	"is_enemy_attack":false,
 	"color":"orange",
 	"texture_width":70,
-	"texture_height":70
+	"texture_height":70,
+	"toss_duration":0.4
 }

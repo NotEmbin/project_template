@@ -7,5 +7,6 @@
 	"crit_chance":0.05,
 	"poison_enemy":false,
 	"color":"black",
-	"texture_override":"fwb:attack/jumpscare"
+	"texture_override":"fwb:attack/jumpscare",
+	"sound_override":"fwb:sound_effects/jumpscare_4"
 }

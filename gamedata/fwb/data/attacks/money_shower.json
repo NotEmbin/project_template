@@ -1,9 +1,0 @@
-{
-	"base_damage":35,
-	"base_damage_to_self":0,
-	"attack_type":"money_shower",
-	"can_crit":false,
-	"crit_damage_multiplier":4,
-	"poison_enemy":true,
-	"color":"green"
-}
