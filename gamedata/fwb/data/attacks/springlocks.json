@@ -1,7 +1,11 @@
 {
-	"base_damage":80,
+	"base_damage":30,
 	"base_damage_to_self":0,
 	"attack_type":"springlocks",
+	"springlocks":{
+		"count":6,
+		"delay":0.1
+	},
 	"can_crit":false,
 	"crit_damage_multiplier":4,
 	"crit_chance":0.1,

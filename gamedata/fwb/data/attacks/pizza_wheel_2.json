@@ -7,5 +7,7 @@
 	"can_crit":false,
 	"crit_damage_multiplier":1,
 	"poison_enemy":false,
-	"color":"red"
+	"color":"red",
+	"delay":0.20,
+	"screen_shake_duration":1.6
 }
