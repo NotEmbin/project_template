@@ -1,6 +1,6 @@
 {
 	"base_damage":300,
-	"base_damage_to_self":-300,
+	"base_damage_to_self":-200,
 	"attack_type":"jumpscare",
 	"can_crit":true,
 	"crit_damage_multiplier":10,
