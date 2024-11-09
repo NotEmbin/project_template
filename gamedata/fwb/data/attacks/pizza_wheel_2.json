@@ -1,5 +1,5 @@
 {
-	"base_damage":88,
+	"base_damage":35,
 	"damage_variation":[-8,10],
 	"swarm_amount":5,
 	"base_damage_to_self":0,

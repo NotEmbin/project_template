@@ -8,7 +8,7 @@
 	"crit_chance":0.01,
 	"poison_enemy":false,
 	"color":"black",
-	"texture_width":200,
-	"texture_height":75,
+	"texture_width":160,
+	"texture_height":60,
 	"toss_duration":0.4
 }
