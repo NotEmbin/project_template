@@ -1,13 +1,20 @@
 {
-	"base_damage":95,
+	"base_damage":105,
 	"base_damage_to_self":0,
-	"attack_type":"generic.swarm.from_above",
-	"swarm_amount":12,
+	"attack_type":"generic.swarm",
+	"swarm":{
+		"amount":12,
+		"amount_variation":[-1,2],
+		"duration":[0.95,1.32]
+	},
+	"start_x":[280,360],
+	"start_y":180,
 	"can_crit":false,
 	"crit_damage_multiplier":2,
 	"poison_enemy":false,
 	"is_enemy_attack":false,
 	"color":"blaze_orange",
 	"damage_variation":[-2,2],
-	"swarm_amount_variation":[-2,2]
+	"screen_shake_duration":0,
+	"screen_shake_on_hit_duration":0.1
 }

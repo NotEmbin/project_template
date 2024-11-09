@@ -2,12 +2,14 @@
 	"base_damage":15,
 	"base_damage_to_self":0,
 	"attack_type":"generic.swarm",
-	"swarm_amount":8,
+	"swarm":{
+		"amount":8,
+		"amount_variation":[-1,1]
+	},
 	"can_crit":false,
 	"crit_damage_multiplier":5,
 	"poison_enemy":false,
 	"is_enemy_attack":false,
 	"color":"red",
-	"damage_variation":[-2,3],
-	"swarm_amount_variation":[-1,1]
+	"damage_variation":[-2,3]
 }

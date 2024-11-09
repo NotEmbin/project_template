@@ -1,13 +1,15 @@
 {
 	"base_damage":35,
 	"damage_variation":[-8,10],
-	"swarm_amount":5,
 	"base_damage_to_self":0,
 	"attack_type":"generic.swarm",
+	"swarm":{
+		"amount":5,
+		"delay":0.2
+	},
 	"can_crit":false,
 	"crit_damage_multiplier":1,
 	"poison_enemy":false,
 	"color":"red",
-	"delay":0.20,
 	"screen_shake_duration":1.6
 }
