@@ -11,5 +11,5 @@
 	"texture_width":70,
 	"texture_height":70,
 	"toss_duration":0.55,
-	"hit_sound_override":"fwb:sound_effects/mic_toss"
+	"sound_override":"fwb:sound_effects/mic_toss"
 }
