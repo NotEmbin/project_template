@@ -151,6 +151,26 @@
 			"file":"jumpscareshort.mp3",
 			"name":"jumpscare",
 			"loop":false
+		},
+		{
+			"file":"ex2.wav",
+			"name":"hollow",
+			"loop":false
+		},
+		{
+			"file":"pizza2.wav",
+			"name":"hit",
+			"loop":false
+		},
+		{
+			"file":"pow.wav",
+			"name":"pow",
+			"loop":false
+		},
+		{
+			"file":"mic.wav",
+			"name":"mic_toss",
+			"loop":false
 		}
 	]
 }
