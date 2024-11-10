@@ -1,14 +1,15 @@
 {
-	"base_damage":105,
+	"base_damage":255,
 	"base_damage_to_self":0,
 	"attack_type":"generic.swarm",
 	"swarm":{
-		"amount":12,
-		"amount_variation":[-1,2],
-		"duration":[0.95,1.32]
+		"amount":9,
+		"amount_variation":[-2,2],
+		"duration":[1.1,1.32],
+		"delay":0.3
 	},
-	"start_x":[280,360],
-	"start_y":180,
+	"start_x":[290,350],
+	"start_y":190,
 	"can_crit":false,
 	"crit_damage_multiplier":2,
 	"poison_enemy":false,

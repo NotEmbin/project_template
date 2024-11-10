@@ -4,7 +4,8 @@
 	"attack_type":"generic.swarm",
 	"swarm":{
 		"amount":8,
-		"amount_variation":[-1,2]
+		"amount_variation":[-1,2],
+		"delay":0.1
 	},
 	"can_crit":false,
 	"crit_damage_multiplier":5,

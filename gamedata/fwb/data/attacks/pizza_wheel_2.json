@@ -11,5 +11,6 @@
 	"crit_damage_multiplier":1,
 	"poison_enemy":false,
 	"color":"red",
-	"screen_shake_duration":1.6
+	"screen_shake_duration":1.6,
+	"size":120
 }
