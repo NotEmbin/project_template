@@ -4,7 +4,8 @@
 	"base_damage_to_self":0,
 	"attack_type":"generic.toss",
 	"toss":{
-		"duration":0.8
+		"duration":0.8,
+		"spin_speed":15
 	},
 	"can_crit":true,
 	"crit_damage_multiplier":6,

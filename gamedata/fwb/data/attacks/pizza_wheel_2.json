@@ -5,7 +5,8 @@
 	"attack_type":"generic.swarm",
 	"swarm":{
 		"amount":5,
-		"delay":0.2
+		"delay":0.2,
+		"spin_speed":15
 	},
 	"can_crit":false,
 	"crit_damage_multiplier":1,
