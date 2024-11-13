@@ -171,6 +171,11 @@
 			"file":"mic.wav",
 			"name":"mic_toss",
 			"loop":false
+		},
+		{
+			"file":"dde_scream.ogg",
+			"name":"dde_scream",
+			"loop":false
 		}
 	]
 }

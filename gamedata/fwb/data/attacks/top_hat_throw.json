@@ -2,7 +2,11 @@
 	"base_damage":45,
 	"damage_variation":[-5,5],
 	"base_damage_to_self":0,
-	"attack_type":"generic.toss.no_spin",
+	"attack_type":"generic.toss",
+	"toss":{
+		"duration":0.6,
+		"spin_speed":0
+	},
 	"can_crit":true,
 	"crit_damage_multiplier":4,
 	"crit_chance":0.1,

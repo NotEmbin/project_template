@@ -3,11 +3,13 @@
 	"base_damage_to_self":0,
 	"attack_type":"generic.swarm",
 	"swarm":{
-		"amount":9,
-		"amount_variation":[-2,2],
+		"amount":8,
+		"amount_variation":[-2,1],
 		"duration":[1.1,1.32],
 		"delay":0.3,
-		"spin_speed":15
+		"spin_speed":15,
+		"end_x":[-290,-70],
+		"end_y":[-90,-60]
 	},
 	"start_x":[290,350],
 	"start_y":190,
