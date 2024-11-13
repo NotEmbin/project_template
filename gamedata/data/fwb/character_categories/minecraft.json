@@ -1,0 +1,8 @@
+{
+	"id":"minecraft",
+	"has_random":true,
+	"does_order_matter":false,
+	"characters":[
+		"#fwb:from_minecraft"
+	]
+}

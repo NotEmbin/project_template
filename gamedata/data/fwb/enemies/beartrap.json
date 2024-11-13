@@ -1,0 +1,10 @@
+{
+	"health":28,
+	"attacks":[
+		"fwb:hook"
+	],
+	"attack_delay":4,
+	"power":1,
+	"frames_of_animation":10,
+	"one_shot_attacks_work":true
+}

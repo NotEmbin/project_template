@@ -1,0 +1,11 @@
+{
+	"health":255,
+	"attacks":[
+		"fwb:jack_o_bomb",
+		"fwb:mega_bite",
+		"fwb:buzzsaw"
+	],
+	"frames_of_animation":11,
+	"size_override":null,
+	"y_pos_override":null
+}

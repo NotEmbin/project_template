@@ -1,0 +1,12 @@
+{
+	"replace":false,
+	"data":[
+		"fwb:nightmare_fredbear",
+		"fwb:nightmare_bonnie",
+		"fwb:nightmare_freddy",
+		"fwb:nightmare_foxy",
+		"fwb:nightmare",
+		"fwb:nightmare_chica",
+		"#fwb:is_halloween"
+	]
+}

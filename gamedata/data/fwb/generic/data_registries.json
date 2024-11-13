@@ -1,0 +1,14 @@
+{
+	"characters":{
+		"singular":"character",
+		"plural":"characters"
+	},
+	"attacks":{
+		"singular":"attack",
+		"plural":"attacks"
+	},
+	"enemies":{
+		"singular":"enemy",
+		"plural":"enemies"
+	}
+}

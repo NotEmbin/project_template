@@ -1,0 +1,11 @@
+{
+	"health":160,
+	"attacks":[
+		"fwb:bite_2",
+		"fwb:mic_toss",
+		"fwb:regen_song"
+	],
+	"frames_of_animation":11,
+	"size_override":null,
+	"y_pos_override":null
+}

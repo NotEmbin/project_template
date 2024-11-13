@@ -1,0 +1,12 @@
+{
+	"id":"fredbear",
+	"health":230,
+	"attacks":[
+		"fwb:prize_ball_2",
+		"fwb:mega_bite",
+		"fwb:birthday_song"
+	],
+	"frames_of_animation":10,
+	"size_override":null,
+	"y_pos_override":0
+}

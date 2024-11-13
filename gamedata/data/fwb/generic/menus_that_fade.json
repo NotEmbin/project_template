@@ -1,0 +1,14 @@
+{
+	"menu.fwb.mode_selection":true,
+	"menu.fwb.world_mode_ui":true,
+	"menu.fwb.world_mode_main_menu":true,
+	"menu.fwb.normal_mode":true,
+	"menu.settings":true,
+	"menu.controls":true,
+	"menu.controls.change_keybind":true,
+	"menu.audio_settings":true,
+	"menu.video_settings":true,
+	"menu.advanced_settings":true,
+	"menu.effect_settings":true,
+	"menu.fwb.normal_mode.cancel_party":true
+}

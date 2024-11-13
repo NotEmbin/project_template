@@ -1,0 +1,11 @@
+{
+	"texts":[
+		{"text":"Look at all this translated text!","color":"#ff0000"},
+		{"translate":"character.fwb.uncle_bonnie","color":"#ff0000"},
+		{"translate":"character.fwb.freddy_fazbear","color":"#ff0000"},
+		{"text":"That translation key doesn't exist!","color":"#ff0000"},
+		{"text":"Ain't that cool?","color":"#ff0000"},
+		{"translate":"data_registry.characters","color":"#ff0000"},
+		{"translate":"tag.attacks.fwb.prize_ball_3_list","color":"#ff0000"}
+	]
+}

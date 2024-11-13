@@ -1,0 +1,18 @@
+{
+	"base_damage":30,
+	"damage_variation":[-2,2],
+	"base_damage_to_self":0,
+	"attack_type":"generic.toss",
+	"toss":{
+		"duration":0.55,
+		"spin_speed":25
+	},
+	"can_crit":false,
+	"crit_damage_multiplier":1024,
+	"poison_enemy":false,
+	"is_enemy_attack":false,
+	"color":"orange",
+	"texture_width":70,
+	"texture_height":70,
+	"sound_override":"fwb:sound_effects/mic_toss"
+}

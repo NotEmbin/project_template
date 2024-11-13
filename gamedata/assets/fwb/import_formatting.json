@@ -1,0 +1,26 @@
+{
+	"character_icons/":{
+		"prefix":"",
+		"suffix":"/icon",
+		"apply_to_sub_directories":true
+	},
+	"attack_buttons/":{
+		"prefix":"",
+		"suffix":"_attack_button",
+		"apply_to_sub_directories":false
+	},
+	"backgrounds/":{
+		"prefix":"background/",
+		"suffix":""
+	},
+	"enemies/":{
+		"prefix":"enemy/",
+		"suffix":"",
+		"apply_to_sub_directories":true
+	},
+	"attacks/":{
+		"prefix":"attack/",
+		"suffix":"",
+		"apply_to_sub_directories":true
+	}
+}

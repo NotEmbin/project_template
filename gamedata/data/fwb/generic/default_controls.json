@@ -1,0 +1,15 @@
+{
+	"engine:restart_game":";",
+	"engine:cancel_prompt":"backspace",
+	"engine:confirm_prompt":"enter",
+	"engine:show_debug_screen":"#",
+	"engine:show_logs":"$",
+	"engine:show_fps":"@",
+	"engine:run_command":"/",
+	"fwb:show_advanced_tooltips":"z",
+	"fwb:move_up":"w",
+	"fwb:move_down":"s",
+	"fwb:move_left":"a",
+	"fwb:move_right":"d",
+	"engine:pause":"p"
+}

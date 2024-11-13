@@ -1,9 +1,0 @@
-{
-	"base_damage":0,
-	"base_damage_to_self":-100,
-	"attack_type":"boost_stats",
-	"can_crit":false,
-	"crit_damage_multiplier":1,
-	"poison_enemy":false,
-	"color":"pink"
-}

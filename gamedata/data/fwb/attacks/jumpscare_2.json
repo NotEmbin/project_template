@@ -1,0 +1,11 @@
+{
+	"base_damage":125,
+	"base_damage_to_self":-100,
+	"attack_type":"jumpscare",
+	"can_crit":false,
+	"crit_damage_multiplier":1,
+	"poison_enemy":false,
+	"color":"red",
+	"texture_override":"fwb:attack/jumpscare",
+	"sound_override":"fwb:sound_effects/jumpscare_2"
+}
