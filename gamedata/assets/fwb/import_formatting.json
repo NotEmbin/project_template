@@ -2,25 +2,19 @@
 	"character_icons/":{
 		"prefix":"",
 		"suffix":"/icon",
-		"apply_to_sub_directories":true
+		"apply_to_sub_directories":true,
+		"include_base_in_name":false
 	},
 	"attack_buttons/":{
 		"prefix":"",
 		"suffix":"_attack_button",
-		"apply_to_sub_directories":false
+		"apply_to_sub_directories":false,
+		"include_base_in_name":false
 	},
-	"backgrounds/":{
-		"prefix":"background/",
-		"suffix":""
-	},
-	"enemies/":{
-		"prefix":"enemy/",
+	"character/":{
+		"prefix":"",
 		"suffix":"",
-		"apply_to_sub_directories":true
-	},
-	"attacks/":{
-		"prefix":"attack/",
-		"suffix":"",
-		"apply_to_sub_directories":true
+		"apply_to_sub_directories":true,
+		"include_base_in_name":false
 	}
 }
