@@ -176,6 +176,16 @@
 			"file":"dde_scream.ogg",
 			"name":"dde_scream",
 			"loop":false
+		},
+		{
+			"file":"bite1.wav",
+			"name":"bite",
+			"loop":false
+		},
+		{
+			"file":"biteb.wav",
+			"name":"bite_hit",
+			"loop":false
 		}
 	]
 }
