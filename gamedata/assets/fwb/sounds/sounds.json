@@ -186,6 +186,16 @@
 			"file":"biteb.wav",
 			"name":"bite_hit",
 			"loop":false
+		},
+		{
+			"file":"popup_in.ogg",
+			"name":"popup_in",
+			"loop":false
+		},
+		{
+			"file":"popup_out.ogg",
+			"name":"popup_out",
+			"loop":false
 		}
 	]
 }

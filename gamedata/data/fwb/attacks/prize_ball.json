@@ -2,7 +2,7 @@
 	"base_damage":0,
 	"base_damage_to_self":0,
 	"attack_type":"prize_ball",
-	"prize_ball_attacks":"#fwb:prize_ball_list",
+	"prize_ball_attacks":"#fwb:prize_ball_attacks",
 	"can_crit":false,
 	"crit_damage_multiplier":16,
 	"poison_enemy":false,
