@@ -5,12 +5,6 @@
 		"apply_to_sub_directories":true,
 		"include_base_in_name":false
 	},
-	"attack_buttons/":{
-		"prefix":"",
-		"suffix":"_attack_button",
-		"apply_to_sub_directories":false,
-		"include_base_in_name":false
-	},
 	"character/":{
 		"prefix":"",
 		"suffix":"",

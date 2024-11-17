@@ -1,9 +1,9 @@
 {
-	"health":550,
+	"health":5000,
 	"attacks":[
-		"fwb:hook",
-		"fwb:evil_bear_chomp",
-		"fwb:mega_bite"
+		"fwb:enemy/hook",
+		"fwb:enemy/evil_bear_chomp",
+		"fwb:enemy/mega_bite"
 	],
 	"attack_delay":5,
 	"power":4,

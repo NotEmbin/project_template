@@ -1,0 +1,13 @@
+{
+	"health":550,
+	"attacks":[
+		"fwb:enemy/hook",
+		"fwb:enemy/evil_bear_chomp",
+		"fwb:enemy/mega_bite"
+	],
+	"attack_delay":5,
+	"power":4,
+	"frames_of_animation":4,
+	"one_shot_attacks_work":true,
+	"texture_override":"fwb:enemy/evilbear"
+}
