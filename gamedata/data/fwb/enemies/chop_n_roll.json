@@ -1,7 +1,7 @@
 {
 	"health":75,
 	"attacks":[
-		"fwb:hook"
+		"fwb:enemy/hook"
 	],
 	"attack_delay":4,
 	"power":1,

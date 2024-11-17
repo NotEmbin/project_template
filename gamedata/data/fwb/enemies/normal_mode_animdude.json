@@ -1,8 +1,8 @@
 {
 	"health":25000,
 	"attacks":[
-		"fwb:strong_hook",
-		"fwb:4th_wall"
+		"fwb:enemy/strong_hook",
+		"fwb:enemy/4th_wall"
 	],
 	"attack_delay":12,
 	"power":10,

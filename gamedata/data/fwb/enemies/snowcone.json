@@ -1,8 +1,8 @@
 {
 	"health":5000,
 	"attacks":[
-		"fwb:snow_balls",
-		"fwb:hook"
+		"fwb:enemy/snow_balls",
+		"fwb:enemy/hook"
 	],
 	"attack_delay":6,
 	"power":10,

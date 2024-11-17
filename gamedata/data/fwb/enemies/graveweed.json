@@ -1,8 +1,8 @@
 {
 	"health":275,
 	"attacks":[
-		"fwb:hook",
-		"fwb:toxic_bite"
+		"fwb:enemy/hook",
+		"fwb:enemy/toxic_bite"
 	],
 	"attack_delay":5,
 	"power":3,

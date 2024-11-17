@@ -1,9 +1,9 @@
 {
 	"health":6000,
 	"attacks":[
-		"fwb:strong_hook",
-		"fwb:4th_wall",
-		"fwb:scott_cubes"
+		"fwb:enemy/strong_hook",
+		"fwb:enemy/4th_wall",
+		"fwb:enemy/scott_cubes"
 	],
 	"power":5,
 	"attack_delay":10,
