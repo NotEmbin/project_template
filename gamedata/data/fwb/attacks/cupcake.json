@@ -7,11 +7,7 @@
 	"poison_enemy":false,
 	"is_enemy_attack":false,
 	"color":"pink",
-	"apply_effect":[
-		{
-			"effect":"regen",
-			"duration":2,
-			"intensity":3
-		}
-	]
+	"apply_effect":{
+		"regen":80
+	}
 }
