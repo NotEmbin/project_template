@@ -12,6 +12,7 @@
 	"poison_enemy":false,
 	"is_enemy_attack":false,
 	"color":"orange",
-	"spin_speed":0,
-	"hit_sound_override":"fwb:sound_effects/hollow"
+	"hit_sound_override":"fwb:sound_effects/hollow",
+	"texture_width":200,
+	"texture_height":200
 }

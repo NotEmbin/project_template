@@ -1,0 +1,10 @@
+{
+	"base_damage":0,
+	"base_damage_to_self":15,
+	"attack_type":"generic.attack",
+	"can_crit":false,
+	"crit_damage_multiplier":4,
+	"poison_enemy":false,
+	"is_enemy_attack":true,
+	"color":"enemy"
+}

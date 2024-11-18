@@ -471,6 +471,7 @@
 	"save_game.local_storage.warning":"Note: Your browser can clear local storage at any time, so this save method is not recommended.",
 	"test":"testing test %s test",
 	"menu.normal_mode.confirm_party.header":"Confirm Party",
+	"menu.normal_mode.confirm_party.slot":"Slot %s",
 	"button.normal_mode.confirm_party.confirm":"Confirm",
 	"button.normal_mode.confirm_party.cancel":"Cancel",
 	"popup.header":"Notice!",

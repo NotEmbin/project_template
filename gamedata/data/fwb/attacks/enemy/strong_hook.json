@@ -1,0 +1,13 @@
+{
+	"base_damage":0,
+	"base_damage_to_self":40,
+	"attack_type":"generic.attack",
+	"generic.attack":{
+		"spin_speed":12
+	},
+	"can_crit":false,
+	"crit_damage_multiplier":4,
+	"poison_enemy":false,
+	"is_enemy_attack":true,
+	"color":"enemy"
+}
