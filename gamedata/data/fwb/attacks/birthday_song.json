@@ -7,8 +7,8 @@
 	"poison_enemy":false,
 	"color":"white",
 	"boost_stats":{
-		"attack":10,
-		"defense":10,
-		"speed":10
+		"attack":25,
+		"defense":15,
+		"speed":25
 	}
 }

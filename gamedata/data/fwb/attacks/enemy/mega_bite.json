@@ -7,5 +7,6 @@
 	"crit_damage_multiplier":4,
 	"poison_enemy":false,
 	"is_enemy_attack":true,
-	"color":"enemy"
+	"color":"enemy",
+	"texture_override":"fwb:attack/mega_bite"
 }

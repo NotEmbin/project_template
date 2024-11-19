@@ -7,6 +7,6 @@
 	"poison_enemy":false,
 	"color":"white",
 	"boost_stats":{
-		"speed":40
+		"speed":50
 	}
 }

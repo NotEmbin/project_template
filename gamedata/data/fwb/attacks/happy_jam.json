@@ -1,20 +1,31 @@
 {
 	"base_damage":0,
 	"base_damage_to_self":-15,
-	"attack_type":"happy_jam",
+	"attack_type":"generic.swarm",
+	"random_textures":[
+		"fwb:attack/music_note/pink",
+		"fwb:attack/music_note/yellow",
+		"fwb:attack/music_note/blue",
+		"fwb:attack/music_note/green",
+		"fwb:attack/music_note/red"
+	],
+	"swarm":{
+		"end_x_is_start_x":true,
+		"end_y":200
+	},
+	"start_x":[70,270],
+	"start_y":-200,
 	"can_crit":false,
 	"crit_damage_multiplier":1,
 	"poison_enemy":false,
 	"is_enemy_attack":false,
 	"color":"pink",
-	"apply_effect":[
-		{
-			"effect":"regen",
-			"duration":3,
-			"intensity":2
-		}
-	],
+	"apply_effect":{
+		"regen":60
+	},
 	"boost_stats":{
-		"speed":50
-	}
+		"speed":20
+	},
+	"sound_override":"fwb:sound_effects/guitar_2",
+	"hit_sound_override":null
 }

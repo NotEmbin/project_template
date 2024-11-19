@@ -196,6 +196,16 @@
 			"file":"popup_out.ogg",
 			"name":"popup_out",
 			"loop":false
+		},
+		{
+			"file":"cheer.wav",
+			"name":"cheer",
+			"loop":false
+		},
+		{
+			"file":"crit_hit.wav",
+			"name":"crit",
+			"loop":false
 		}
 	]
 }

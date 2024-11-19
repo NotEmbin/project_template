@@ -12,5 +12,6 @@
 	"poison_enemy":false,
 	"is_enemy_attack":false,
 	"color":"red",
-	"damage_variation":[-20,15]
+	"damage_variation":[-20,15],
+	"texture_override":"fwb:attack/freddle"
 }

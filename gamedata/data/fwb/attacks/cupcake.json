@@ -1,7 +1,16 @@
 {
 	"base_damage":0,
-	"base_damage_to_self":-20,
-	"attack_type":"generic.apply_effect",
+	"base_damage_to_self":-5,
+	"attack_type":"generic.swarm",
+	"swarm":{
+		"amount":5,
+		"spin_speed":0,
+		"end_x_is_start_x":true,
+		"end_y":[-100,-50],
+		"duration":[1.1,1.32]
+	},
+	"start_x":[70,270],
+	"start_y":200,
 	"can_crit":false,
 	"crit_damage_multiplier":4,
 	"poison_enemy":false,
@@ -9,5 +18,7 @@
 	"color":"pink",
 	"apply_effect":{
 		"regen":80
-	}
+	},
+	"sound_override":null,
+	"hit_sound_override":null
 }
