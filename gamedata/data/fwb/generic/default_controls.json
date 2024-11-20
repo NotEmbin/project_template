@@ -11,5 +11,6 @@
 	"fwb:move_down":"s",
 	"fwb:move_left":"a",
 	"fwb:move_right":"d",
-	"engine:pause":"p"
+	"engine:pause":"p",
+	"engine:clear_resources":"end"
 }
