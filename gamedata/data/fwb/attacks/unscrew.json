@@ -15,6 +15,6 @@
 		"fwb:attack/screw_3",
 		"fwb:attack/spring"
 	],
-	"texture_width":35,
-	"texture_height":35
+	"texture_width":50,
+	"texture_height":50
 }
