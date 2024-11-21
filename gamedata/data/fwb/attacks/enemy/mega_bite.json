@@ -1,6 +1,6 @@
 {
-	"base_damage":0,
-	"base_damage_to_self":100,
+	"base_damage":100,
+	"base_damage_to_self":0,
 	"attack_type":"bite",
 	"start_x":170,
 	"can_crit":false,
