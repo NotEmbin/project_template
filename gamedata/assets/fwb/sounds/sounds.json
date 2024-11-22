@@ -67,18 +67,18 @@
 			"loop":false
 		},
 		{
-			"file":"gloom.wav",
+			"file":"attacks/gloom.wav",
 			"name":"gloom_song",
 			"loop":false
 		},
 		{
-			"file":"bad_pizza.wav",
+			"file":"attacks/bad_pizza.wav",
 			"name":"bad_pizza",
 			"loop":false,
 			"volume":75
 		},
 		{
-			"file":"4th_wall.wav",
+			"file":"attacks/4th_wall.wav",
 			"name":"4th_wall",
 			"loop":false
 		},
@@ -113,17 +113,17 @@
 			"loop":false
 		},
 		{
-			"file":"gun_empty.mp3",
+			"file":"ui/gun_empty.mp3",
 			"name":"ui_hover",
 			"loop":false
 		},
 		{
-			"file":"alarm.wav",
+			"file":"attacks/alarm.wav",
 			"name":"alarm",
 			"loop":false
 		},
 		{
-			"file":"antiv.wav",
+			"file":"attacks/antiv.wav",
 			"name":"anti_virus",
 			"loop":false
 		},
@@ -133,22 +133,22 @@
 			"loop":false
 		},
 		{
-			"file":"fnaf2scream.mp3",
+			"file":"attacks/jumpscares/fnaf2scream.mp3",
 			"name":"jumpscare_2",
 			"loop":false
 		},
 		{
-			"file":"fnaf3scream.mp3",
+			"file":"attacks/jumpscares/fnaf3scream.mp3",
 			"name":"jumpscare_3",
 			"loop":false
 		},
 		{
-			"file":"fnaf4scream.mp3",
+			"file":"attacks/jumpscares/fnaf4scream.mp3",
 			"name":"jumpscare_4",
 			"loop":false
 		},
 		{
-			"file":"jumpscareshort.mp3",
+			"file":"attacks/jumpscares/jumpscareshort.mp3",
 			"name":"jumpscare",
 			"loop":false
 		},
@@ -168,7 +168,7 @@
 			"loop":false
 		},
 		{
-			"file":"mic.wav",
+			"file":"attacks/mic.wav",
 			"name":"mic_toss",
 			"loop":false
 		},
@@ -178,22 +178,22 @@
 			"loop":false
 		},
 		{
-			"file":"bite1.wav",
+			"file":"attacks/bite1.wav",
 			"name":"bite",
 			"loop":false
 		},
 		{
-			"file":"biteb.wav",
+			"file":"attacks/biteb.wav",
 			"name":"bite_hit",
 			"loop":false
 		},
 		{
-			"file":"popup_in.ogg",
+			"file":"ui/popup_in.ogg",
 			"name":"popup_in",
 			"loop":false
 		},
 		{
-			"file":"popup_out.ogg",
+			"file":"ui/popup_out.ogg",
 			"name":"popup_out",
 			"loop":false
 		},
@@ -208,13 +208,38 @@
 			"loop":false
 		},
 		{
-			"file":"chainsaw_rev_02.wav",
+			"file":"attacks/chainsaw_rev_02.wav",
 			"name":"buzzsaw",
 			"loop":false
 		},
 		{
-			"file":"unscrew1b.wav",
+			"file":"attacks/unscrew1b.wav",
 			"name":"unscrew",
+			"loop":false
+		},
+		{
+			"file":"dead.wav",
+			"name":"game_over",
+			"loop":false
+		},
+		{
+			"file":"poof.wav",
+			"name":"poof",
+			"loop":false
+		},
+		{
+			"file":"sparkle.wav",
+			"name":"sparkle",
+			"loop":false
+		},
+		{
+			"file":"sparkle2.wav",
+			"name":"sparkle_2",
+			"loop":false
+		},
+		{
+			"file":"open_prize_ball.wav",
+			"name":"open_prize_ball",
 			"loop":false
 		}
 	]
