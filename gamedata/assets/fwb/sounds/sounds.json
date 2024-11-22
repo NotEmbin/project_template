@@ -238,7 +238,7 @@
 			"loop":false
 		},
 		{
-			"file":"open_prize_ball.wav",
+			"file":"attacks/open_prize_ball.wav",
 			"name":"open_prize_ball",
 			"loop":false
 		}
