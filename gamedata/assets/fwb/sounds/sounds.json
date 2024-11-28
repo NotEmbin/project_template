@@ -215,7 +215,8 @@
 		{
 			"file":"attacks/unscrew1b.wav",
 			"name":"unscrew",
-			"loop":false
+			"loop":false,
+			"volume":75
 		},
 		{
 			"file":"dead.wav",
