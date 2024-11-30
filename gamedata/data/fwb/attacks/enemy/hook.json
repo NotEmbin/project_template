@@ -2,6 +2,7 @@
 	"base_damage":15,
 	"base_damage_to_self":0,
 	"attack_type":"generic.attack",
+	"start_x":170,
 	"can_crit":false,
 	"crit_damage_multiplier":4,
 	"poison_enemy":false,

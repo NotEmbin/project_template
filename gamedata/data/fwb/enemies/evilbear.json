@@ -1,5 +1,5 @@
 {
-	"health":5000,
+	"health":3000,
 	"attacks":[
 		"fwb:enemy/hook",
 		"fwb:enemy/evil_bear_chomp",
