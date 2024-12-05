@@ -353,6 +353,9 @@
 	"menu.video_settings.header":"Graphics Settings",
 	"menu.advanced_settings.header":"Misc. Settings",
 	"menu.settings.header":"Settings",
+	"button.settings.reset_settings":"Reset Settings",
+	"button.settings.import_settings":"Import Settings",
+	"button.settings.export_settings":"Export Settings",
 	"key.shift":"Shift",
 	"key.control":"Ctrl",
 	"key.enter":"Enter",
@@ -484,5 +487,10 @@
 	"popup.texture_loading_fail":"%s texture(s) failed to load",
 	"popup.check_console":"Check the console for more info",
 	"popup.settings_reset":"Settings have been reset",
-	"popup.test":"Test popup"
+	"popup.test":"Test popup",
+	"popup.settings_import.wrong_game":"Settings file for incorrect game was given",
+	"popup.settings_import.invalid_json":"Settings file is invalid",
+	"popup.settings_import.success":"Imported settings",
+	"popup.settings_export":"Exporting settings",
+	"in_battle.next_fight":"Hit \"%s\" to continue"
 }
