@@ -2,10 +2,8 @@
 	"health":165,
 	"attacks":[
 		"fwb:balloons",
-		"fwb:regen_song",
+		"fwb:instant_health",
 		"fwb:unscrew"
 	],
-	"frames_of_animation":11,
-	"size_override":null,
-	"y_pos_override":null
+	"frames_of_animation":11
 }

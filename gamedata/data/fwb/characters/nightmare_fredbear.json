@@ -3,9 +3,7 @@
 	"attacks":[
 		"fwb:freddles",
 		"fwb:mega_bite",
-		"fwb:regen_song"
+		"fwb:armor_song"
 	],
-	"frames_of_animation":12,
-	"size_override":null,
-	"y_pos_override":0
+	"frames_of_animation":12
 }

@@ -492,5 +492,6 @@
 	"popup.settings_import.invalid_json":"Settings file is invalid",
 	"popup.settings_import.success":"Imported settings",
 	"popup.settings_export":"Exporting settings",
-	"in_battle.next_fight":"Hit \"%s\" to continue"
+	"in_battle.next_fight":"Hit \"%s\" to continue",
+	"in_battle.miss":"Miss!"
 }

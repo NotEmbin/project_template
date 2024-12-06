@@ -6,7 +6,7 @@
 		"fwb:enemy/mega_bite"
 	],
 	"attack_delay":6,
-	"power":4,
+	"power":1,
 	"frames_of_animation":4,
 	"one_shot_attacks_work":true,
 	"texture_override":"fwb:enemy/evilbear"
