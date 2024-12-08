@@ -1,18 +1,21 @@
 {
-	"base_damage":250,
+	"base_damage":240,
 	"damage_variation":[-2,2],
 	"base_damage_to_self":0,
 	"attack_type":"generic.toss",
 	"toss":{
 		"duration":1,
-		"spin_speed":0
+		"spin_speed":0,
+		"end_x":180
 	},
+	"start_x":-180,
 	"can_crit":false,
-	"crit_damage_multiplier":1,
+	"crit_damage_multiplier":2,
 	"poison_enemy":false,
 	"is_enemy_attack":true,
 	"color":"orange",
 	"texture_width":180,
 	"texture_height":360,
-	"sound_override":"fwb:sound_effects/4th_wall"
+	"sound_override":"fwb:sound_effects/4th_wall",
+	"texture_override":"fwb:attack/4th_wall"
 }

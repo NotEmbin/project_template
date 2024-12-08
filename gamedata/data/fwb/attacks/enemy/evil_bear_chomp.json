@@ -1,0 +1,12 @@
+{
+	"base_damage":35,
+	"damage_variation":[-2,2],
+	"base_damage_to_self":0,
+	"attack_type":"evil_bear_chomp",
+	"start_x":170,
+	"can_crit":false,
+	"crit_damage_multiplier":4,
+	"poison_enemy":false,
+	"is_enemy_attack":true,
+	"color":"orange"
+}
