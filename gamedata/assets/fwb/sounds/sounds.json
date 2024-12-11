@@ -26,18 +26,6 @@
 			"name":"final_boss",
 			"loop":true,
 			"load_on_use":true
-		},
-		{
-			"external":"https://notembin.github.io/games/fwb/music/hurt2.mp3",
-			"name":"music_test",
-			"loop":true,
-			"load_on_use":true
-		},
-		{
-			"external":"https://notembin.github.io/games/fwb/music/ice_cave.ogg",
-			"name":"ice_cave",
-			"loop":true,
-			"load_on_use":true
 		}
 	],
 	"sound_effects":[
