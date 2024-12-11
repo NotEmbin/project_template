@@ -5,6 +5,7 @@
 	"generic.attack":{
 		"spin_speed":12
 	},
+	"start_x":170,
 	"can_crit":false,
 	"crit_damage_multiplier":4,
 	"poison_enemy":false,

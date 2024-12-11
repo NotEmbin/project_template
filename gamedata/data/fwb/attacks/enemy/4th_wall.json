@@ -14,8 +14,8 @@
 	"poison_enemy":false,
 	"is_enemy_attack":true,
 	"color":"orange",
-	"texture_width":180,
-	"texture_height":360,
+	"texture_width":150,
+	"texture_height":320,
 	"sound_override":"fwb:sound_effects/4th_wall",
 	"texture_override":"fwb:attack/4th_wall"
 }
