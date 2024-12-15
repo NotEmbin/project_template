@@ -19,6 +19,6 @@
 	"apply_effect":{
 		"regen":80
 	},
-	"sound_override":null,
+	"sound_override":"fwb:sound_effects/funny_horn",
 	"hit_sound_override":null
 }

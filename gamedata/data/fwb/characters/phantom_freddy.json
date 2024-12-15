@@ -1,0 +1,11 @@
+{
+	"health":170,
+	"attacks":[
+		"fwb:bad_pizza",
+		"fwb:toxic_song",
+		"fwb:mic_toss"
+	],
+	"frames_of_animation":11,
+	"size_override":null,
+	"y_pos_override":null
+}

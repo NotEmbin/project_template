@@ -230,6 +230,11 @@
 			"file":"attacks/open_prize_ball.wav",
 			"name":"open_prize_ball",
 			"loop":false
+		},
+		{
+			"file":"attacks/funny_horn.wav",
+			"name":"funny_horn",
+			"loop":false
 		}
 	]
 }

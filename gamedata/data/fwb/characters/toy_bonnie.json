@@ -1,0 +1,9 @@
+{
+	"health":160,
+	"attacks":[
+		"fwb:bash_jam",
+		"fwb:bite",
+		"fwb:instant_health"
+	],
+	"frames_of_animation":11
+}

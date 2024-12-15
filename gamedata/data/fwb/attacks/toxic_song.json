@@ -1,0 +1,23 @@
+{
+	"base_damage":25,
+	"base_damage_to_self":0,
+	"attack_type":"generic.swarm",
+	"random_textures":[
+		"fwb:attack/music_note/gloomy_green",
+		"fwb:attack/music_note/gloomy_blue",
+		"fwb:attack/music_note/gloomy_yellow"
+	],
+	"swarm":{
+		"end_x_is_start_x":true,
+		"end_y":200
+	},
+	"start_x":[-270,-70],
+	"start_y":-200,
+	"can_crit":false,
+	"crit_damage_multiplier":1,
+	"poison_enemy":true,
+	"is_enemy_attack":false,
+	"color":"green",
+	"sound_override":"fwb:sound_effects/gloom_song",
+	"hit_sound_override":null
+}

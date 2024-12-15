@@ -1,0 +1,9 @@
+{
+	"health":160,
+	"attacks":[
+		"fwb:instant_health",
+		"fwb:bite",
+		"fwb:jumpscare"
+	],
+	"frames_of_animation":11
+}

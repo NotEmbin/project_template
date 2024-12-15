@@ -1,0 +1,23 @@
+{
+	"health":240,
+	"attacks":[
+		"fwb:gift_boxes",
+		"fwb:mega_bite",
+		"fwb:unscrew_2"
+	],
+	"frames_of_animation":12,
+	"size_override":null,
+	"y_pos_override":null,
+	"attacks_per_mode":{
+		"classic_mode":[
+			"fwb:gift_boxes_chance",
+			"fwb:mega_bite",
+			"fwb:pizza_wheel_2"
+		],
+		"endless_classic_mode":[
+			"fwb:gift_boxes_chance",
+			"fwb:mega_bite",
+			"fwb:pizza_wheel_2"
+		]
+	}
+}
