@@ -12,5 +12,6 @@
 	"menu.effect_settings":true,
 	"menu.fwb.normal_mode.cancel_party":true,
 	"menu.changelogs":true,
-	"menu.view_changelog":true
+	"menu.view_changelog":true,
+	"menu.fwb.classic_mode":true
 }
