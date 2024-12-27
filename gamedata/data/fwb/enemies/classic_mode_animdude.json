@@ -4,7 +4,7 @@
 		"fwb:enemy/strong_hook",
 		"fwb:enemy/4th_wall"
 	],
-	"attack_delay":7,
+	"attack_delay":12,
 	"power":5,
 	"frames_of_animation":10,
 	"one_shot_attacks_work":true,
