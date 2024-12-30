@@ -1,0 +1,17 @@
+{
+	"button_settings": "menu.settings",
+	"button_backsettings": "menu.title_screen",
+	"button_resource_packs": "menu.resource_pack_menu",
+	"button_backtosettings": "menu.settings",
+	"button_quit": "!quit_game",
+	"button_controls": "menu.controls",
+	"button_audio_settings": "menu.audio_settings",
+	"button_video_settings": "menu.video_settings",
+	"button_effect_settings": "menu.effect_settings",
+	"button_advanced_settings": "menu.advanced_settings",
+	"button.tag_viewer": "menu.tag_viewer",
+	"button.reset_settings": "trigger.reset_settings",
+	"button.import_settings": "trigger.import_settings",
+	"button.export_settings": "trigger.export_settings",
+	"button.changelogs": "menu.changelogs"
+}
