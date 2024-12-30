@@ -258,3 +258,7 @@ Valve counted to 7...
 evil game made by evil people
 The Comment.
 reversed code
+"I AM NO LONGER RETURN FOREVER 😭"
+You are using this translation software incorrectly. Please refer to the manual.
+%CapPlayerName IS YOU
+hello, %PlayerName...

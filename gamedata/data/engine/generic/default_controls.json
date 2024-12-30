@@ -1,0 +1,11 @@
+{
+	"engine:restart_game":";",
+	"engine:cancel_prompt":"backspace",
+	"engine:confirm_prompt":"enter",
+	"engine:show_debug_screen":"#",
+	"engine:show_logs":"$",
+	"engine:show_fps":"@",
+	"engine:run_command":"/",
+	"engine:pause":"p",
+	"engine:clear_resources":"end"
+}

@@ -1,0 +1,13 @@
+{
+	"base_damage":65,
+	"damage_variation":[-3,5],
+	"base_damage_to_self":0,
+	"attack_type":"bite",
+	"can_crit":false,
+	"crit_damage_multiplier":4,
+	"poison_enemy":true,
+	"is_enemy_attack":false,
+	"color":"green",
+	"texture_width":200,
+	"texture_height":200
+}

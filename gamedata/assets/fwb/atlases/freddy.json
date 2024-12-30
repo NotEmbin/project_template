@@ -1,0 +1,17 @@
+{
+	"texture_base":"fwb:character/freddy_atlas",
+	"texture_width":250,
+	"texture_height":250,
+	"aliases":[
+		"fwb:freddy/1",
+		"fwb:freddy/2",
+		"fwb:freddy/3",
+		"fwb:freddy/4",
+		"fwb:freddy/5",
+		"fwb:freddy/6",
+		"fwb:freddy/7",
+		"fwb:freddy/8",
+		"fwb:freddy/9",
+		"fwb:freddy/10"
+	]
+}

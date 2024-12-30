@@ -1,5 +1,5 @@
 {
-	"base_damage":65,
+	"base_damage":95,
 	"damage_variation":[-3,5],
 	"base_damage_to_self":0,
 	"attack_type":"bite",

@@ -1,0 +1,18 @@
+{
+	"texture_base":"fwb:character/bonnie_atlas",
+	"texture_width":250,
+	"texture_height":250,
+	"aliases":[
+		"fwb:bonnie/1",
+		"fwb:bonnie/2",
+		"fwb:bonnie/3",
+		"fwb:bonnie/4",
+		"fwb:bonnie/5",
+		"fwb:bonnie/6",
+		"fwb:bonnie/7",
+		"fwb:bonnie/8",
+		"fwb:bonnie/9",
+		"fwb:bonnie/10",
+		"fwb:bonnie/11"
+	]
+}

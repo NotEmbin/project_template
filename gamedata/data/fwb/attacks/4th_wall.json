@@ -1,0 +1,19 @@
+{
+	"base_damage":3072,
+	"damage_variation":[-128,127],
+	"base_damage_to_self":0,
+	"attack_type":"generic.toss",
+	"toss":{
+		"duration":1,
+		"spin_speed":0
+	},
+	"can_crit":false,
+	"crit_damage_multiplier":4,
+	"poison_enemy":false,
+	"is_enemy_attack":false,
+	"color":"black",
+	"texture_width":150,
+	"texture_height":320,
+	"sound_override":"fwb:sound_effects/4th_wall",
+	"texture_override":"fwb:attack/4th_wall"
+}
