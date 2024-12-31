@@ -12,5 +12,6 @@
 	"button.fwb.tag_viewer": "menu.tag_viewer",
 	"button.fwb.in_battle.detonate_stickybombs": "attack.stickybomb.detonate",
 	"button.fwb.single_character_mode": "menu.fwb.classic_mode",
-	"button.fwb.in_battle.detonate_stickybombs":"attack.stickybomb.detonate"
+	"button.fwb.in_battle.detonate_stickybombs":"attack.stickybomb.detonate",
+	"button.fwb.atlas_testing":"menu.example"
 }

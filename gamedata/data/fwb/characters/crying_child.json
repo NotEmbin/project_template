@@ -1,7 +1,7 @@
 {
-	"health":220,
+	"health":230,
 	"attacks":[
-		"fwb:prize_ball_3",
+		"fwb:gift_boxes",
 		"fwb:armor_song",
 		"fwb:speed_song"
 	],
