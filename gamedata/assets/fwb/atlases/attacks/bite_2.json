@@ -1,0 +1,16 @@
+{
+	"texture_base":"fwb:attack/bite_2_atlas",
+	"texture_width":300,
+	"texture_height":300,
+	"aliases":[
+		"fwb:attack/bite_2/1",
+		"fwb:attack/bite_2/2",
+		"fwb:attack/bite_2/3",
+		"fwb:attack/bite_2/4",
+		"fwb:attack/bite_2/5",
+		"fwb:attack/bite_2/6",
+		"fwb:attack/bite_2/7",
+		"fwb:attack/bite_2/8",
+		"fwb:attack/bite_2/9"
+	]
+}

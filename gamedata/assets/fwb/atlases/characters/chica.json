@@ -1,0 +1,18 @@
+{
+	"texture_base":"fwb:character/chica_atlas",
+	"texture_width":250,
+	"texture_height":250,
+	"aliases":[
+		"fwb:character/chica/1",
+		"fwb:character/chica/2",
+		"fwb:character/chica/3",
+		"fwb:character/chica/4",
+		"fwb:character/chica/5",
+		"fwb:character/chica/6",
+		"fwb:character/chica/7",
+		"fwb:character/chica/8",
+		"fwb:character/chica/9",
+		"fwb:character/chica/10",
+		"fwb:character/chica/11"
+	]
+}

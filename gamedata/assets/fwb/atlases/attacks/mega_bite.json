@@ -1,0 +1,16 @@
+{
+	"texture_base":"fwb:attack/mega_bite_atlas",
+	"texture_width":300,
+	"texture_height":300,
+	"aliases":[
+		"fwb:attack/mega_bite/1",
+		"fwb:attack/mega_bite/2",
+		"fwb:attack/mega_bite/3",
+		"fwb:attack/mega_bite/4",
+		"fwb:attack/mega_bite/5",
+		"fwb:attack/mega_bite/6",
+		"fwb:attack/mega_bite/7",
+		"fwb:attack/mega_bite/8",
+		"fwb:attack/mega_bite/9"
+	]
+}

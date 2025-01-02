@@ -1,0 +1,16 @@
+{
+	"texture_base":"fwb:attack/toxic_bite_atlas",
+	"texture_width":248,
+	"texture_height":248,
+	"aliases":[
+		"fwb:attack/toxic_bite/1",
+		"fwb:attack/toxic_bite/2",
+		"fwb:attack/toxic_bite/3",
+		"fwb:attack/toxic_bite/4",
+		"fwb:attack/toxic_bite/5",
+		"fwb:attack/toxic_bite/6",
+		"fwb:attack/toxic_bite/7",
+		"fwb:attack/toxic_bite/8",
+		"fwb:attack/toxic_bite/9"
+	]
+}

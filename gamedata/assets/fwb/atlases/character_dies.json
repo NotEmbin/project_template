@@ -1,0 +1,13 @@
+{
+	"texture_base":"fwb:misc/character_dies_atlas",
+	"texture_width":300,
+	"texture_height":300,
+	"aliases":[
+		"fwb:misc/character_dies/1",
+		"fwb:misc/character_dies/2",
+		"fwb:misc/character_dies/3",
+		"fwb:misc/character_dies/4",
+		"fwb:misc/character_dies/5",
+		"fwb:misc/character_dies/6"
+	]
+}

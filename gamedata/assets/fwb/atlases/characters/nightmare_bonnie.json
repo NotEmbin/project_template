@@ -1,0 +1,18 @@
+{
+	"texture_base":"fwb:character/nightmare_bonnie_atlas_temp",
+	"texture_width":500,
+	"texture_height":500,
+	"aliases":[
+		"fwb:character/nightmare_bonnie/1",
+		"fwb:character/nightmare_bonnie/2",
+		"fwb:character/nightmare_bonnie/3",
+		"fwb:character/nightmare_bonnie/4",
+		"fwb:character/nightmare_bonnie/5",
+		"fwb:character/nightmare_bonnie/6",
+		"fwb:character/nightmare_bonnie/7",
+		"fwb:character/nightmare_bonnie/8",
+		"fwb:character/nightmare_bonnie/9",
+		"fwb:character/nightmare_bonnie/10",
+		"fwb:character/nightmare_bonnie/11"
+	]
+}

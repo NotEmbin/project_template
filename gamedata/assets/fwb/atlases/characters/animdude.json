@@ -1,0 +1,17 @@
+{
+	"texture_base":"fwb:character/animdude_atlas",
+	"texture_width":250,
+	"texture_height":250,
+	"aliases":[
+		"fwb:character/animdude/1",
+		"fwb:character/animdude/2",
+		"fwb:character/animdude/3",
+		"fwb:character/animdude/4",
+		"fwb:character/animdude/5",
+		"fwb:character/animdude/6",
+		"fwb:character/animdude/7",
+		"fwb:character/animdude/8",
+		"fwb:character/animdude/9",
+		"fwb:character/animdude/10"
+	]
+}

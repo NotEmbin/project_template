@@ -1,0 +1,16 @@
+{
+	"texture_base":"fwb:attack/prize_ball_2_atlas",
+	"texture_width":200,
+	"texture_height":200,
+	"aliases":[
+		"fwb:attack/prize_ball_2/1",
+		"fwb:attack/prize_ball_2/2",
+		"fwb:attack/prize_ball_2/3",
+		"fwb:attack/prize_ball_2/4",
+		"fwb:attack/prize_ball_2/5",
+		"fwb:attack/prize_ball_2/6",
+		"fwb:attack/prize_ball_2/7",
+		"fwb:attack/prize_ball_2/8",
+		"fwb:attack/prize_ball_2/9"
+	]
+}

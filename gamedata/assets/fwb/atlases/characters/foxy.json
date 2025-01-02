@@ -1,0 +1,18 @@
+{
+	"texture_base":"fwb:character/foxy_atlas",
+	"texture_width":250,
+	"texture_height":250,
+	"aliases":[
+		"fwb:character/foxy/1",
+		"fwb:character/foxy/2",
+		"fwb:character/foxy/3",
+		"fwb:character/foxy/4",
+		"fwb:character/foxy/5",
+		"fwb:character/foxy/6",
+		"fwb:character/foxy/7",
+		"fwb:character/foxy/8",
+		"fwb:character/foxy/9",
+		"fwb:character/foxy/10",
+		"fwb:character/foxy/11"
+	]
+}

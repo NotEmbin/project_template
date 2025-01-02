@@ -1,0 +1,17 @@
+{
+	"texture_base":"fwb:character/phantom_bb_atlas",
+	"texture_width":250,
+	"texture_height":250,
+	"aliases":[
+		"fwb:character/phantom_bb/1",
+		"fwb:character/phantom_bb/2",
+		"fwb:character/phantom_bb/3",
+		"fwb:character/phantom_bb/4",
+		"fwb:character/phantom_bb/5",
+		"fwb:character/phantom_bb/6",
+		"fwb:character/phantom_bb/7",
+		"fwb:character/phantom_bb/8",
+		"fwb:character/phantom_bb/9",
+		"fwb:character/phantom_bb/10"
+	]
+}

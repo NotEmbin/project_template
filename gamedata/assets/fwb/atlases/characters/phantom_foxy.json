@@ -1,0 +1,18 @@
+{
+	"texture_base":"fwb:character/phantom_foxy_atlas",
+	"texture_width":250,
+	"texture_height":250,
+	"aliases":[
+		"fwb:character/phantom_foxy/1",
+		"fwb:character/phantom_foxy/2",
+		"fwb:character/phantom_foxy/3",
+		"fwb:character/phantom_foxy/4",
+		"fwb:character/phantom_foxy/5",
+		"fwb:character/phantom_foxy/6",
+		"fwb:character/phantom_foxy/7",
+		"fwb:character/phantom_foxy/8",
+		"fwb:character/phantom_foxy/9",
+		"fwb:character/phantom_foxy/10",
+		"fwb:character/phantom_foxy/11"
+	]
+}

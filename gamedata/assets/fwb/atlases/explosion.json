@@ -1,0 +1,28 @@
+{
+	"texture_base":"fwb:attack/explosion_atlas",
+	"texture_width":200,
+	"texture_height":200,
+	"aliases":[
+		"fwb:attack/explosion/1",
+		"fwb:attack/explosion/2",
+		"fwb:attack/explosion/3",
+		"fwb:attack/explosion/4",
+		"fwb:attack/explosion/5",
+		"fwb:attack/explosion/6",
+		"fwb:attack/explosion/7",
+		"fwb:attack/explosion/8",
+		"fwb:attack/explosion/9",
+		"fwb:attack/explosion/10",
+		"fwb:attack/explosion/11",
+		"fwb:attack/explosion/12",
+		"fwb:attack/explosion/13",
+		"fwb:attack/explosion/14",
+		"fwb:attack/explosion/15",
+		"fwb:attack/explosion/16",
+		"fwb:attack/explosion/17",
+		"fwb:attack/explosion/18",
+		"fwb:attack/explosion/19",
+		"fwb:attack/explosion/20",
+		"fwb:attack/explosion/21"
+	]
+}
