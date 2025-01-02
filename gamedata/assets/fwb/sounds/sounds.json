@@ -235,6 +235,26 @@
 			"file":"attacks/funny_horn.wav",
 			"name":"funny_horn",
 			"loop":false
+		},
+		{
+			"file":"ddededodediamante.wav",
+			"name":"ddededodediamante",
+			"loop":false
+		},
+		{
+			"file":"joe.wav",
+			"name":"joe",
+			"loop":false
+		},
+		{
+			"file":"joehurt.wav",
+			"name":"joe_death",
+			"loop":false
+		},
+		{
+			"file":"joe_win.wav",
+			"name":"joe_win",
+			"loop":false
 		}
 	]
 }

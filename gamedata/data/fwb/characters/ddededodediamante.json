@@ -5,5 +5,7 @@
 		"fwb:prize_ball_3",
 		"fwb:birthday_song"
 	],
-	"frames_of_animation":1
+	"frames_of_animation":1,
+	"start_sound":"fwb:sound_effects/ddededodediamante",
+	"death_sound":"fwb:sound_effects/dde_scream"
 }
