@@ -1,0 +1,19 @@
+{
+	"texture_base":"fwb:character_icon/atlas_256x",
+	"texture_width":256,
+	"texture_height":256,
+	"aliases":[
+		"fwb:character_icon/ddededodediamante",
+		"fwb:character_icon/joella",
+		"fwb:character_icon/heavy",
+		"fwb:character_icon/engineer",
+		"fwb:character_icon/spy",
+		"fwb:character_icon/scout",
+		"fwb:character_icon/pyro",
+		"fwb:character_icon/soldier",
+		"fwb:character_icon/sniper",
+		"fwb:character_icon/demoman",
+		"fwb:character_icon/medic",
+		"fwb:character_icon/angry_freddy"
+	]
+}
