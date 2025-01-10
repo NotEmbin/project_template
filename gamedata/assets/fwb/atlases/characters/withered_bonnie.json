@@ -1,0 +1,18 @@
+{
+	"texture_base":"fwb:character/withered_bonnie_atlas",
+	"texture_width":250,
+	"texture_height":250,
+	"aliases":[
+		"fwb:character/withered_bonnie/1",
+		"fwb:character/withered_bonnie/2",
+		"fwb:character/withered_bonnie/3",
+		"fwb:character/withered_bonnie/4",
+		"fwb:character/withered_bonnie/5",
+		"fwb:character/withered_bonnie/6",
+		"fwb:character/withered_bonnie/7",
+		"fwb:character/withered_bonnie/8",
+		"fwb:character/withered_bonnie/9",
+		"fwb:character/withered_bonnie/10",
+		"fwb:character/withered_bonnie/11"
+	]
+}

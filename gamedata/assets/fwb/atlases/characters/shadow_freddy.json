@@ -1,0 +1,17 @@
+{
+	"texture_base":"fwb:character/shadow_freddy_atlas",
+	"texture_width":250,
+	"texture_height":250,
+	"aliases":[
+		"fwb:character/shadow_freddy/1",
+		"fwb:character/shadow_freddy/2",
+		"fwb:character/shadow_freddy/3",
+		"fwb:character/shadow_freddy/4",
+		"fwb:character/shadow_freddy/5",
+		"fwb:character/shadow_freddy/6",
+		"fwb:character/shadow_freddy/7",
+		"fwb:character/shadow_freddy/8",
+		"fwb:character/shadow_freddy/9",
+		"fwb:character/shadow_freddy/10"
+	]
+}

@@ -1,0 +1,17 @@
+{
+  "texture_base": "fwb:character/withered_freddy_atlas",
+  "texture_width": 250,
+  "texture_height": 250,
+  "aliases": [
+    "fwb:character/withered_freddy/1",
+    "fwb:character/withered_freddy/2",
+    "fwb:character/withered_freddy/3",
+    "fwb:character/withered_freddy/4",
+    "fwb:character/withered_freddy/5",
+    "fwb:character/withered_freddy/6",
+    "fwb:character/withered_freddy/7",
+    "fwb:character/withered_freddy/8",
+    "fwb:character/withered_freddy/9",
+    "fwb:character/withered_freddy/10"
+  ]
+}

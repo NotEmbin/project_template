@@ -1,0 +1,17 @@
+{
+	"texture_base":"fwb:character/endo_01_atlas",
+	"texture_width":250,
+	"texture_height":250,
+	"aliases":[
+		"fwb:character/endo_01/1",
+		"fwb:character/endo_01/2",
+		"fwb:character/endo_01/3",
+		"fwb:character/endo_01/4",
+		"fwb:character/endo_01/5",
+		"fwb:character/endo_01/6",
+		"fwb:character/endo_01/7",
+		"fwb:character/endo_01/8",
+		"fwb:character/endo_01/9",
+		"fwb:character/endo_01/10"
+	]
+}

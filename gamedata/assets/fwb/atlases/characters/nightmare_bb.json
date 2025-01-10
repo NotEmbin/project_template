@@ -1,0 +1,17 @@
+{
+  "texture_base": "fwb:character/nightmare_bb_atlas",
+  "texture_width": 250,
+  "texture_height": 250,
+  "aliases": [
+    "fwb:character/nightmare_bb/1",
+    "fwb:character/nightmare_bb/2",
+    "fwb:character/nightmare_bb/3",
+    "fwb:character/nightmare_bb/4",
+    "fwb:character/nightmare_bb/5",
+    "fwb:character/nightmare_bb/6",
+    "fwb:character/nightmare_bb/7",
+    "fwb:character/nightmare_bb/8",
+    "fwb:character/nightmare_bb/9",
+    "fwb:character/nightmare_bb/10"
+  ]
+}

@@ -3,7 +3,6 @@
 	"button.fwb.normal_mode": "menu.fwb.normal_mode",
 	"button.fwb.mode_selection": "menu.fwb.mode_selection",
 	"button.fwb.credits": "menu.credits",
-	"button.fwb.return_to_title.credits": "menu.trigger_return_to_title_sequence",
 	"button.fwb.character_selection.reset_scroll": "!reset_cameras",
 	"button.fwb.settings": "menu.settings",
 	"button_backsettings": "menu.fwb.mode_selection",

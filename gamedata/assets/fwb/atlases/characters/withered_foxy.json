@@ -1,0 +1,17 @@
+{
+  "texture_base": "fwb:character/withered_foxy_atlas",
+  "texture_width": 250,
+  "texture_height": 250,
+  "aliases": [
+    "fwb:character/withered_foxy/1",
+    "fwb:character/withered_foxy/2",
+    "fwb:character/withered_foxy/3",
+    "fwb:character/withered_foxy/4",
+    "fwb:character/withered_foxy/5",
+    "fwb:character/withered_foxy/6",
+    "fwb:character/withered_foxy/7",
+    "fwb:character/withered_foxy/8",
+    "fwb:character/withered_foxy/9",
+    "fwb:character/withered_foxy/10"
+  ]
+}

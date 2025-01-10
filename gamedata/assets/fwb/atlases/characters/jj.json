@@ -1,0 +1,18 @@
+{
+  "texture_base": "fwb:character/jj_atlas",
+  "texture_width": 250,
+  "texture_height": 250,
+  "aliases": [
+    "fwb:character/jj/1",
+    "fwb:character/jj/2",
+    "fwb:character/jj/3",
+    "fwb:character/jj/4",
+    "fwb:character/jj/5",
+    "fwb:character/jj/6",
+    "fwb:character/jj/7",
+    "fwb:character/jj/8",
+    "fwb:character/jj/9",
+    "fwb:character/jj/10",
+    "fwb:character/jj/11"
+  ]
+}

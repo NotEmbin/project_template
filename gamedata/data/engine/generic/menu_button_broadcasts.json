@@ -3,6 +3,7 @@
 	"button_backsettings": "menu.title_screen",
 	"button_resource_packs": "menu.resource_pack_menu",
 	"button_backtosettings": "menu.settings",
+	"button.fwb.return_to_title.credits": "menu.trigger_return_to_title_sequence",
 	"button_quit": "!quit_game",
 	"button_controls": "menu.controls",
 	"button_audio_settings": "menu.audio_settings",

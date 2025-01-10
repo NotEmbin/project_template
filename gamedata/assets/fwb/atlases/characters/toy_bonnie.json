@@ -1,0 +1,18 @@
+{
+  "texture_base": "fwb:character/toy_bonnie_atlas",
+  "texture_width": 250,
+  "texture_height": 250,
+  "aliases": [
+    "fwb:character/toy_bonnie/1",
+    "fwb:character/toy_bonnie/2",
+    "fwb:character/toy_bonnie/3",
+    "fwb:character/toy_bonnie/4",
+    "fwb:character/toy_bonnie/5",
+    "fwb:character/toy_bonnie/6",
+    "fwb:character/toy_bonnie/7",
+    "fwb:character/toy_bonnie/8",
+    "fwb:character/toy_bonnie/9",
+    "fwb:character/toy_bonnie/10",
+    "fwb:character/toy_bonnie/11"
+  ]
+}

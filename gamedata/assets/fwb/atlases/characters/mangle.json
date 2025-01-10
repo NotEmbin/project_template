@@ -1,0 +1,18 @@
+{
+  "texture_base": "fwb:character/mangle_atlas",
+  "texture_width": 250,
+  "texture_height": 250,
+  "aliases": [
+    "fwb:character/mangle/1",
+    "fwb:character/mangle/2",
+    "fwb:character/mangle/3",
+    "fwb:character/mangle/4",
+    "fwb:character/mangle/5",
+    "fwb:character/mangle/6",
+    "fwb:character/mangle/7",
+    "fwb:character/mangle/8",
+    "fwb:character/mangle/9",
+    "fwb:character/mangle/10",
+    "fwb:character/mangle/11"
+  ]
+}

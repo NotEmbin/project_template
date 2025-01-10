@@ -1,0 +1,18 @@
+{
+	"texture_base":"fwb:character/jack_o_bonnie_atlas",
+	"texture_width":250,
+	"texture_height":250,
+	"aliases":[
+		"fwb:character/jack_o_bonnie/1",
+		"fwb:character/jack_o_bonnie/2",
+		"fwb:character/jack_o_bonnie/3",
+		"fwb:character/jack_o_bonnie/4",
+		"fwb:character/jack_o_bonnie/5",
+		"fwb:character/jack_o_bonnie/6",
+		"fwb:character/jack_o_bonnie/7",
+		"fwb:character/jack_o_bonnie/8",
+		"fwb:character/jack_o_bonnie/9",
+		"fwb:character/jack_o_bonnie/10",
+		"fwb:character/jack_o_bonnie/11"
+	]
+}

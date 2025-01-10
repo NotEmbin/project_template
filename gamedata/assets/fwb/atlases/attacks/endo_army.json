@@ -1,0 +1,22 @@
+{
+	"texture_base":"fwb:attack/endo_army_atlas",
+	"texture_width":200,
+	"texture_height":200,
+	"aliases":[
+		"fwb:attack/endo_army_rise/1",
+		"fwb:attack/endo_army_rise/2",
+		"fwb:attack/endo_army_rise/3",
+		"fwb:attack/endo_army_rise/4",
+		"fwb:attack/endo_army/1",
+		"fwb:attack/endo_army/2",
+		"fwb:attack/endo_army/3",
+		"fwb:attack/endo_army/4",
+		"fwb:attack/endo_army/5",
+		"fwb:attack/endo_army/6",
+		"fwb:attack/endo_army/7",
+		"fwb:attack/endo_army/8",
+		"fwb:attack/endo_army/9",
+		"fwb:attack/endo_army/10",
+		"fwb:attack/endo_army/11"
+	]
+}

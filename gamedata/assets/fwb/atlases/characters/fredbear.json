@@ -1,0 +1,17 @@
+{
+	"texture_base":"fwb:character/fredbear_atlas",
+	"texture_width":250,
+	"texture_height":300,
+	"aliases":[
+		"fwb:character/fredbear/1",
+		"fwb:character/fredbear/2",
+		"fwb:character/fredbear/3",
+		"fwb:character/fredbear/4",
+		"fwb:character/fredbear/5",
+		"fwb:character/fredbear/6",
+		"fwb:character/fredbear/7",
+		"fwb:character/fredbear/8",
+		"fwb:character/fredbear/9",
+		"fwb:character/fredbear/10"
+	]
+}

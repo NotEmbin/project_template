@@ -1,0 +1,19 @@
+{
+  "texture_base": "fwb:character/phantom_mangle_atlas",
+  "texture_width": 250,
+  "texture_height": 250,
+  "aliases": [
+    "fwb:character/phantom_mangle/1",
+    "fwb:character/phantom_mangle/2",
+    "fwb:character/phantom_mangle/3",
+    "fwb:character/phantom_mangle/4",
+    "fwb:character/phantom_mangle/5",
+    "fwb:character/phantom_mangle/6",
+    "fwb:character/phantom_mangle/7",
+    "fwb:character/phantom_mangle/8",
+    "fwb:character/phantom_mangle/9",
+    "fwb:character/phantom_mangle/10",
+    "fwb:character/phantom_mangle/11",
+    "fwb:character/phantom_mangle/12"
+  ]
+}

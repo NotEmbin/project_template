@@ -1,0 +1,18 @@
+{
+  "texture_base": "fwb:character/nightmare_freddy_atlas",
+  "texture_width": 250,
+  "texture_height": 250,
+  "aliases": [
+    "fwb:character/nightmare_freddy/1",
+    "fwb:character/nightmare_freddy/2",
+    "fwb:character/nightmare_freddy/3",
+    "fwb:character/nightmare_freddy/4",
+    "fwb:character/nightmare_freddy/5",
+    "fwb:character/nightmare_freddy/6",
+    "fwb:character/nightmare_freddy/7",
+    "fwb:character/nightmare_freddy/8",
+    "fwb:character/nightmare_freddy/9",
+    "fwb:character/nightmare_freddy/10",
+    "fwb:character/nightmare_freddy/11"
+  ]
+}

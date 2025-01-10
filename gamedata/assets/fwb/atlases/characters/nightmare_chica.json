@@ -1,0 +1,18 @@
+{
+  "texture_base": "fwb:character/nightmare_chica_atlas",
+  "texture_width": 250,
+  "texture_height": 250,
+  "aliases": [
+    "fwb:character/nightmare_chica/1",
+    "fwb:character/nightmare_chica/2",
+    "fwb:character/nightmare_chica/3",
+    "fwb:character/nightmare_chica/4",
+    "fwb:character/nightmare_chica/5",
+    "fwb:character/nightmare_chica/6",
+    "fwb:character/nightmare_chica/7",
+    "fwb:character/nightmare_chica/8",
+    "fwb:character/nightmare_chica/9",
+    "fwb:character/nightmare_chica/10",
+    "fwb:character/nightmare_chica/11"
+  ]
+}

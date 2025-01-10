@@ -1,0 +1,17 @@
+{
+  "texture_base": "fwb:character/withered_chica_atlas",
+  "texture_width": 250,
+  "texture_height": 250,
+  "aliases": [
+    "fwb:character/withered_chica/1",
+    "fwb:character/withered_chica/2",
+    "fwb:character/withered_chica/3",
+    "fwb:character/withered_chica/4",
+    "fwb:character/withered_chica/5",
+    "fwb:character/withered_chica/6",
+    "fwb:character/withered_chica/7",
+    "fwb:character/withered_chica/8",
+    "fwb:character/withered_chica/9",
+    "fwb:character/withered_chica/10"
+  ]
+}

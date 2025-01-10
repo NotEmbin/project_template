@@ -1,0 +1,19 @@
+{
+  "texture_base": "fwb:character/springtrap_atlas",
+  "texture_width": 250,
+  "texture_height": 250,
+  "aliases": [
+    "fwb:character/springtrap/1",
+    "fwb:character/springtrap/2",
+    "fwb:character/springtrap/3",
+    "fwb:character/springtrap/4",
+    "fwb:character/springtrap/5",
+    "fwb:character/springtrap/6",
+    "fwb:character/springtrap/7",
+    "fwb:character/springtrap/8",
+    "fwb:character/springtrap/9",
+    "fwb:character/springtrap/10",
+    "fwb:character/springtrap/11",
+    "fwb:character/springtrap/12"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "texture_base": "fwb:character/bb_atlas",
+  "texture_width": 250,
+  "texture_height": 250,
+  "aliases": [
+    "fwb:character/bb/1",
+    "fwb:character/bb/2",
+    "fwb:character/bb/3",
+    "fwb:character/bb/4",
+    "fwb:character/bb/5",
+    "fwb:character/bb/6",
+    "fwb:character/bb/7",
+    "fwb:character/bb/8",
+    "fwb:character/bb/9",
+    "fwb:character/bb/10",
+    "fwb:character/bb/11"
+  ]
+}

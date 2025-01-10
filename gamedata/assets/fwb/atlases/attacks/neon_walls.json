@@ -1,0 +1,19 @@
+{
+	"texture_base":"fwb:attack/neon_wall_atlas",
+	"texture_width":400,
+	"texture_height":480,
+	"aliases":[
+		"fwb:attack/neon_wall/1",
+		"fwb:attack/neon_wall/2",
+		"fwb:attack/neon_wall/3",
+		"fwb:attack/neon_wall/4",
+		"fwb:attack/neon_wall_2/1",
+		"fwb:attack/neon_wall_2/2",
+		"fwb:attack/neon_wall_2/3",
+		"fwb:attack/neon_wall_2/4",
+		"fwb:attack/neon_wall_2/5",
+		"fwb:attack/neon_wall_2/6",
+		"fwb:attack/neon_wall_2/7",
+		"fwb:attack/neon_wall_2/8"
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"texture_base":"fwb:character/nightmare_fredbear_atlas",
+	"texture_width":250,
+	"texture_height":300,
+	"aliases":[
+		"fwb:character/nightmare_fredbear/1",
+		"fwb:character/nightmare_fredbear/2",
+		"fwb:character/nightmare_fredbear/3",
+		"fwb:character/nightmare_fredbear/4",
+		"fwb:character/nightmare_fredbear/5",
+		"fwb:character/nightmare_fredbear/6",
+		"fwb:character/nightmare_fredbear/7",
+		"fwb:character/nightmare_fredbear/8",
+		"fwb:character/nightmare_fredbear/9",
+		"fwb:character/nightmare_fredbear/10",
+		"fwb:character/nightmare_fredbear/11",
+		"fwb:character/nightmare_fredbear/12"
+	]
+}

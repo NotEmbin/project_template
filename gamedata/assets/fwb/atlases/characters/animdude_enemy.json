@@ -1,0 +1,17 @@
+{
+	"texture_base":"fwb:enemy/animdude_atlas",
+	"texture_width":400,
+	"texture_height":400,
+	"aliases":[
+		"fwb:enemy/animdude/1",
+		"fwb:enemy/animdude/2",
+		"fwb:enemy/animdude/3",
+		"fwb:enemy/animdude/4",
+		"fwb:enemy/animdude/5",
+		"fwb:enemy/animdude/6",
+		"fwb:enemy/animdude/7",
+		"fwb:enemy/animdude/8",
+		"fwb:enemy/animdude/9",
+		"fwb:enemy/animdude/10"
+	]
+}

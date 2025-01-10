@@ -1,0 +1,17 @@
+{
+  "texture_base": "fwb:character/phantom_puppet_atlas",
+  "texture_width": 250,
+  "texture_height": 250,
+  "aliases": [
+    "fwb:character/phantom_puppet/1",
+    "fwb:character/phantom_puppet/2",
+    "fwb:character/phantom_puppet/3",
+    "fwb:character/phantom_puppet/4",
+    "fwb:character/phantom_puppet/5",
+    "fwb:character/phantom_puppet/6",
+    "fwb:character/phantom_puppet/7",
+    "fwb:character/phantom_puppet/8",
+    "fwb:character/phantom_puppet/9",
+    "fwb:character/phantom_puppet/10"
+  ]
+}

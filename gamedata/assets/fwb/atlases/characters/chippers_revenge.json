@@ -1,0 +1,17 @@
+{
+	"texture_base":"fwb:enemy/chippers_revenge_atlas",
+	"texture_width":450,
+	"texture_height":450,
+	"aliases":[
+		"fwb:enemy/chippers_revenge/1",
+		"fwb:enemy/chippers_revenge/2",
+		"fwb:enemy/chippers_revenge/3",
+		"fwb:enemy/chippers_revenge/4",
+		"fwb:enemy/chippers_revenge/5",
+		"fwb:enemy/chippers_revenge/6",
+		"fwb:enemy/chippers_revenge/7",
+		"fwb:enemy/chippers_revenge/8",
+		"fwb:enemy/chippers_revenge/9",
+		"fwb:enemy/chippers_revenge/10"
+	]
+}

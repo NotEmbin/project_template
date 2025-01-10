@@ -1,0 +1,19 @@
+{
+  "texture_base": "fwb:character/spring_bonnie_atlas",
+  "texture_width": 250,
+  "texture_height": 300,
+  "aliases": [
+    "fwb:character/spring_bonnie/1",
+    "fwb:character/spring_bonnie/2",
+    "fwb:character/spring_bonnie/3",
+    "fwb:character/spring_bonnie/4",
+    "fwb:character/spring_bonnie/5",
+    "fwb:character/spring_bonnie/6",
+    "fwb:character/spring_bonnie/7",
+    "fwb:character/spring_bonnie/8",
+    "fwb:character/spring_bonnie/9",
+    "fwb:character/spring_bonnie/10",
+    "fwb:character/spring_bonnie/11",
+    "fwb:character/spring_bonnie/12"
+  ]
+}

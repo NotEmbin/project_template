@@ -1,0 +1,19 @@
+{
+  "texture_base": "fwb:character/funtime_foxy_atlas",
+  "texture_width": 250,
+  "texture_height": 250,
+  "aliases": [
+    "fwb:character/funtime_foxy/1",
+    "fwb:character/funtime_foxy/2",
+    "fwb:character/funtime_foxy/3",
+    "fwb:character/funtime_foxy/4",
+    "fwb:character/funtime_foxy/5",
+    "fwb:character/funtime_foxy/6",
+    "fwb:character/funtime_foxy/7",
+    "fwb:character/funtime_foxy/8",
+    "fwb:character/funtime_foxy/9",
+    "fwb:character/funtime_foxy/10",
+    "fwb:character/funtime_foxy/11",
+    "fwb:character/funtime_foxy/12"
+  ]
+}

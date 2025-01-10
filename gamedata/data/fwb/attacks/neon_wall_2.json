@@ -1,0 +1,16 @@
+{
+	"base_damage":0,
+	"base_damage_to_self":0,
+	"attack_type":"neon_wall",
+	"neon_wall":{
+		"damage_multiplier":0,
+		"frames_of_animation":8,
+		"duration":240
+	},
+	"start_x":20,
+	"size":120,
+	"can_crit":false,
+	"crit_damage_multiplier":1,
+	"poison_enemy":false,
+	"color":"yellow"
+}
