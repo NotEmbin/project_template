@@ -255,6 +255,11 @@
 			"file":"joe_win.wav",
 			"name":"joe_win",
 			"loop":false
+		},
+		{
+			"file":"attacks/laser2.wav",
+			"name":"laser",
+			"loop":false
 		}
 	]
 }

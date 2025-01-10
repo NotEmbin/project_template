@@ -1,7 +1,7 @@
 {
 	"health":240,
 	"attacks":[
-		"fwb:jumpscare_3",
+		"fwb:unscrew_2",
 		"fwb:speed_song",
 		"fwb:instant_health_3"
 	],

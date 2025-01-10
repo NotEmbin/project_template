@@ -1,0 +1,17 @@
+{
+	"base_damage":60,
+	"damage_variation":[-2,2],
+	"base_damage_to_self":0,
+	"attack_type":"generic.toss",
+	"toss":{
+		"duration":0.5,
+		"spin_speed":0
+	},
+	"can_crit":false,
+	"poison_enemy":false,
+	"is_enemy_attack":false,
+	"color":"empty",
+	"texture_width":70,
+	"texture_height":7,
+	"sound_override":"fwb:sound_effects/laser"
+}
