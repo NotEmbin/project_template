@@ -3,7 +3,6 @@
 	"base_damage_to_self":0,
 	"attack_type":"endo_army",
 	"can_crit":false,
-	"crit_damage_multiplier":4,
 	"poison_enemy":false,
 	"is_enemy_attack":false,
 	"color":"yellow",
