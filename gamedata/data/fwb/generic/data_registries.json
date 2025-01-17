@@ -10,5 +10,9 @@
 	"enemies":{
 		"singular":"enemy",
 		"plural":"enemies"
+	},
+	"bytes":{
+		"singular":"byte",
+		"plural":"bytes"
 	}
 }

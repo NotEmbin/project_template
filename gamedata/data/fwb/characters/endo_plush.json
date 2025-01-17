@@ -1,0 +1,9 @@
+{
+	"health":230,
+	"attacks":[
+		"fwb:endo_army",
+		"fwb:mystery_box_2",
+		"fwb:gift_boxes"
+	],
+	"frames_of_animation":12
+}

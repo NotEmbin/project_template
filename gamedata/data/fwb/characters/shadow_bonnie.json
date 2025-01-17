@@ -1,0 +1,9 @@
+{
+	"health":240,
+	"attacks":[
+		"fwb:neon_wall",
+		"fwb:speed_song",
+		"fwb:gift_boxes"
+	],
+	"frames_of_animation":12
+}

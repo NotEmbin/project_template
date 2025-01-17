@@ -1,5 +1,5 @@
 {
-	"base_damage":30,
+	"base_damage":10,
 	"damage_variation":[-2,2],
 	"base_damage_to_self":0,
 	"attack_type":"generic.toss",
@@ -8,7 +8,7 @@
 		"spin_speed":0
 	},
 	"can_crit":true,
-	"crit_damage_multiplier":8,
+	"crit_damage_multiplier":16,
 	"poison_enemy":false,
 	"is_enemy_attack":false,
 	"color":"empty",

@@ -1,0 +1,9 @@
+{
+	"health":270,
+	"attacks":[
+		"fwb:4th_wall",
+		"fwb:slasher",
+		"fwb:prize_ball_3"
+	],
+	"frames_of_animation":10
+}

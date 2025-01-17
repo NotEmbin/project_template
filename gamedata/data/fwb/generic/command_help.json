@@ -1,0 +1,8 @@
+{
+	"kill":[
+		"Kills the specified member of the player or enemy team.",
+		"<player/enemy> Which team to target.",
+		"<member> Integer that determines which party member to kill.",
+		"Examples: `kill party 3`, `kill enemy 1`"
+	]
+}
