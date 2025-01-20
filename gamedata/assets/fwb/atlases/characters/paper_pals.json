@@ -1,0 +1,17 @@
+{
+	"texture_base":"fwb:character/paper_pals_atlas",
+	"texture_width":250,
+	"texture_height":250,
+	"aliases":[
+		"fwb:character/paper_pals/1",
+		"fwb:character/paper_pals/2",
+		"fwb:character/paper_pals/3",
+		"fwb:character/paper_pals/4",
+		"fwb:character/paper_pals/5",
+		"fwb:character/paper_pals/6",
+		"fwb:character/paper_pals/7",
+		"fwb:character/paper_pals/8",
+		"fwb:character/paper_pals/9",
+		"fwb:character/paper_pals/10"
+	]
+}
