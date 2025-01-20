@@ -1,0 +1,17 @@
+{
+  "texture_base": "fwb:character/mr_chipper_atlas",
+  "texture_width": 250,
+  "texture_height": 250,
+  "aliases": [
+    "fwb:character/mr_chipper/1",
+    "fwb:character/mr_chipper/2",
+    "fwb:character/mr_chipper/3",
+    "fwb:character/mr_chipper/4",
+    "fwb:character/mr_chipper/5",
+    "fwb:character/mr_chipper/6",
+    "fwb:character/mr_chipper/7",
+    "fwb:character/mr_chipper/8",
+    "fwb:character/mr_chipper/9",
+    "fwb:character/mr_chipper/10"
+  ]
+}

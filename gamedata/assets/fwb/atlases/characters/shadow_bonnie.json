@@ -1,0 +1,19 @@
+{
+  "texture_base": "fwb:character/shadow_bonnie_atlas",
+  "texture_width": 250,
+  "texture_height": 250,
+  "aliases": [
+    "fwb:character/shadow_bonnie/1",
+    "fwb:character/shadow_bonnie/2",
+    "fwb:character/shadow_bonnie/3",
+    "fwb:character/shadow_bonnie/4",
+    "fwb:character/shadow_bonnie/5",
+    "fwb:character/shadow_bonnie/6",
+    "fwb:character/shadow_bonnie/7",
+    "fwb:character/shadow_bonnie/8",
+    "fwb:character/shadow_bonnie/9",
+    "fwb:character/shadow_bonnie/10",
+    "fwb:character/shadow_bonnie/11",
+    "fwb:character/shadow_bonnie/12"
+  ]
+}

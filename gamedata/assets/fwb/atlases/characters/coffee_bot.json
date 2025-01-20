@@ -1,0 +1,17 @@
+{
+  "texture_base": "fwb:character/coffee_bot_atlas",
+  "texture_width": 200,
+  "texture_height": 150,
+  "aliases": [
+    "fwb:character/coffee_bot/1",
+    "fwb:character/coffee_bot/2",
+    "fwb:character/coffee_bot/3",
+    "fwb:character/coffee_bot/4",
+    "fwb:character/coffee_bot/5",
+    "fwb:character/coffee_bot/6",
+    "fwb:character/coffee_bot/7",
+    "fwb:character/coffee_bot/8",
+    "fwb:character/coffee_bot/9",
+    "fwb:character/coffee_bot/10"
+  ]
+}

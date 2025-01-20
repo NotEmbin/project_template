@@ -1,0 +1,17 @@
+{
+  "texture_base": "fwb:character/nightmare_puppet_atlas",
+  "texture_width": 250,
+  "texture_height": 250,
+  "aliases": [
+    "fwb:character/nightmare_puppet/1",
+    "fwb:character/nightmare_puppet/2",
+    "fwb:character/nightmare_puppet/3",
+    "fwb:character/nightmare_puppet/4",
+    "fwb:character/nightmare_puppet/5",
+    "fwb:character/nightmare_puppet/6",
+    "fwb:character/nightmare_puppet/7",
+    "fwb:character/nightmare_puppet/8",
+    "fwb:character/nightmare_puppet/9",
+    "fwb:character/nightmare_puppet/10"
+  ]
+}

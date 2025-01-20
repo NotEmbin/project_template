@@ -2,7 +2,7 @@
 	"health":270,
 	"attacks":[
 		"fwb:4th_wall",
-		"fwb:slasher",
+		"fwb:gift_boxes",
 		"fwb:prize_ball_3"
 	],
 	"frames_of_animation":10

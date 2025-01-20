@@ -1,0 +1,17 @@
+{
+  "texture_base": "fwb:character/plushtrap_atlas",
+  "texture_width": 250,
+  "texture_height": 250,
+  "aliases": [
+    "fwb:character/plushtrap/1",
+    "fwb:character/plushtrap/2",
+    "fwb:character/plushtrap/3",
+    "fwb:character/plushtrap/4",
+    "fwb:character/plushtrap/5",
+    "fwb:character/plushtrap/6",
+    "fwb:character/plushtrap/7",
+    "fwb:character/plushtrap/8",
+    "fwb:character/plushtrap/9",
+    "fwb:character/plushtrap/10"
+  ]
+}

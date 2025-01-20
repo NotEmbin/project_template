@@ -1,0 +1,19 @@
+{
+  "texture_base": "fwb:character/endo_plush_atlas",
+  "texture_width": 250,
+  "texture_height": 250,
+  "aliases": [
+    "fwb:character/endo_plush/1",
+    "fwb:character/endo_plush/2",
+    "fwb:character/endo_plush/3",
+    "fwb:character/endo_plush/4",
+    "fwb:character/endo_plush/5",
+    "fwb:character/endo_plush/6",
+    "fwb:character/endo_plush/7",
+    "fwb:character/endo_plush/8",
+    "fwb:character/endo_plush/9",
+    "fwb:character/endo_plush/10",
+    "fwb:character/endo_plush/11",
+    "fwb:character/endo_plush/12"
+  ]
+}
