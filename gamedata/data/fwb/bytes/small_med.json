@@ -1,0 +1,7 @@
+{
+	"frames_of_animation":3,
+	"run_attack":{
+		"id":"fwb:bytes/med",
+		"interval_seconds":[14,16]
+	}
+}

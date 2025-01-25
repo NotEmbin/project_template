@@ -1,0 +1,15 @@
+{
+	"base_damage":32,
+	"damage_variation":[-2,2],
+	"base_damage_to_self":0,
+	"attack_type":"generic.toss",
+	"toss":{
+		"duration":0.4,
+		"spin_speed":0
+	},
+	"start_y":135,
+	"sound_override":null,
+	"texture_width":40,
+	"texture_height":20,
+	"texture_override":"fwb:attack/ufo_laser"
+}

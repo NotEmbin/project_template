@@ -1,0 +1,7 @@
+{
+	"base_damage":0,
+	"damage_variation":[-2,2],
+	"base_damage_to_self":-35,
+	"attack_type":"boost_stats",
+	"sound_override":null
+}

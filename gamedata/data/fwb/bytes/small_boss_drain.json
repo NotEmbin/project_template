@@ -1,0 +1,7 @@
+{
+	"frames_of_animation":5,
+	"drain_enemy_hp":{
+		"amount":1,
+		"enemy_filter":"#fwb:is_boss"
+	}
+}

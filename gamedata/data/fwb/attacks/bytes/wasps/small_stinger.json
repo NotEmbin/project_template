@@ -1,0 +1,15 @@
+{
+	"base_damage":24,
+	"damage_variation":[-2,2],
+	"base_damage_to_self":0,
+	"attack_type":"generic.toss",
+	"toss":{
+		"duration":0.4,
+		"spin_speed":0
+	},
+	"texture_width":30,
+	"texture_height":30,
+	"texture_override":"fwb:attack/wasp_stinger",
+	"start_y":135,
+	"sound_override":null
+}
