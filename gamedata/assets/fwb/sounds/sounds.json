@@ -72,8 +72,9 @@
 		},
 		{
 			"file":"loop_test.wav",
-			"name":"loop",
-			"loop":true
+			"name":"loop_test",
+			"loop":true,
+			"exclude_category_from_name":true
 		},
 		{
 			"file":"bamboo_whoosh.mp3",
