@@ -1,0 +1,19 @@
+{
+	"data":[
+		"fwb:small_wasp",
+		"fwb:medium_wasp",
+		"fwb:large_wasp",
+		"fwb:small_med",
+		"fwb:medium_med",
+		"fwb:large_med",
+		"fwb:small_ufo",
+		"fwb:medium_ufo",
+		"fwb:large_ufo",
+		"fwb:small_damage_blocker",
+		"fwb:medium_damage_blocker",
+		"fwb:large_damage_blocker",
+		"fwb:small_boss_drain",
+		"fwb:medium_boss_drain",
+		"fwb:large_boss_drain"
+	]
+}

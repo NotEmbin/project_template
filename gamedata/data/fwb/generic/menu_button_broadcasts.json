@@ -12,5 +12,7 @@
 	"button.fwb.in_battle.detonate_stickybombs": "attack.stickybomb.detonate",
 	"button.fwb.single_character_mode": "menu.fwb.classic_mode",
 	"button.fwb.in_battle.detonate_stickybombs":"attack.stickybomb.detonate",
-	"button.fwb.atlas_testing":"menu.example"
+	"button.fwb.atlas_testing":"menu.example",
+	"button.fwb.byte_menu.normal_mode":"menu.fwb.byte_selection",
+	"button.fwb.byte_menu.classic_mode":"menu.fwb.byte_selection.classic_mode"
 }

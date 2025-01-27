@@ -326,5 +326,7 @@
 	"button.normal_mode.confirm_party.confirm":"Confirm",
 	"button.normal_mode.confirm_party.cancel":"Cancel",
 	"in_battle.next_fight":"Hit \"%s\" to continue",
-	"in_battle.miss":"Miss!"
+	"in_battle.miss":"Miss!",
+	"button.byte_menu":"Bytes",
+	"button.byte_menu.active":"Bytes (%s active)"
 }
