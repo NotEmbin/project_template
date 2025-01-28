@@ -14,5 +14,6 @@
 	"button.fwb.in_battle.detonate_stickybombs":"attack.stickybomb.detonate",
 	"button.fwb.atlas_testing":"menu.example",
 	"button.fwb.byte_menu.normal_mode":"menu.fwb.byte_selection",
-	"button.fwb.byte_menu.classic_mode":"menu.fwb.byte_selection.classic_mode"
+	"button.fwb.byte_menu.classic_mode":"menu.fwb.byte_selection.classic_mode",
+	"button.fwb.attack_gallery":"menu.fwb.attack_gallery"
 }
