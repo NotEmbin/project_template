@@ -9,7 +9,7 @@
 		"fwb:enemy/unscrew_2",
 		"fwb:enemy/toxic_bite"
 	],
-	"attack_delay":7,
+	"attack_delay":6,
 	"power":25,
 	"frames_of_animation":10,
 	"one_shot_attacks_work":true

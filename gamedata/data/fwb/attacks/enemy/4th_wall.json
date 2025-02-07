@@ -13,7 +13,7 @@
 	"crit_damage_multiplier":2,
 	"poison_enemy":false,
 	"is_enemy_attack":true,
-	"color":"orange",
+	"color":"enemy",
 	"texture_width":150,
 	"texture_height":320,
 	"sound_override":"fwb:sound_effects/4th_wall",

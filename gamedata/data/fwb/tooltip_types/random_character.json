@@ -1,5 +1,8 @@
 {
 	"texts":[
-		{"translate":"tooltip.random_character","color":"#ffffff"}
+		{
+			"translate":"tooltip.random_character",
+			"color":"#ffffff"
+		}
 	]
 }

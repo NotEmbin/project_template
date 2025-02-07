@@ -1,16 +1,17 @@
 {
 	"health":2147483647,
 	"attacks":[
-		"fwb:enemy/hook",
-		"fwb:enemy/evil_bear_chomp",
 		"fwb:enemy/mega_bite",
 		"fwb:enemy/strong_hook",
 		"fwb:enemy/4th_wall",
 		"fwb:enemy/unscrew",
-		"fwb:enemy/strong_evil_bear_chomp"
+		"fwb:enemy/strong_evil_bear_chomp",
+		"fwb:enemy/snow_balls",
+		"fwb:enemy/snow_balls_2",
+		"fwb:enemy/unscrew_2"
 	],
-	"attack_delay":7,
-	"power":1,
+	"attack_delay":5,
+	"power":2,
 	"frames_of_animation":4,
 	"one_shot_attacks_work":false,
 	"texture_override":"fwb:enemy/evilbear"

@@ -11,10 +11,13 @@
 	"menu.advanced_settings":true,
 	"menu.effect_settings":true,
 	"menu.fwb.normal_mode.cancel_party":true,
+	"menu.fwb.endless_mode.cancel_party":true,
 	"menu.changelogs":true,
 	"menu.view_changelog":true,
 	"menu.fwb.classic_mode":true,
 	"menu.fwb.byte_selection":true,
 	"menu.fwb.byte_selection.classic_mode":true,
-	"menu.fwb.attack_gallery":true
+	"menu.fwb.byte_selection.endless_mode":true,
+	"menu.fwb.attack_gallery":true,
+	"menu.fwb.endless_mode":true
 }

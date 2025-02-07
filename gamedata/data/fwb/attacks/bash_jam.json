@@ -1,5 +1,5 @@
 {
-	"base_damage":10,
+	"base_damage":5,
 	"base_damage_to_self":0,
 	"attack_type":"generic.swarm",
 	"random_textures":[

@@ -15,5 +15,9 @@
 	"button.fwb.atlas_testing":"menu.example",
 	"button.fwb.byte_menu.normal_mode":"menu.fwb.byte_selection",
 	"button.fwb.byte_menu.classic_mode":"menu.fwb.byte_selection.classic_mode",
-	"button.fwb.attack_gallery":"menu.fwb.attack_gallery"
+	"button.fwb.byte_menu.endless_mode":"menu.fwb.byte_selection.endless_mode",
+	"button.fwb.attack_gallery":"menu.fwb.attack_gallery",
+	"button.fwb.endless_mode.cancel_party": "menu.fwb.endless_mode.cancel_party",
+	"button.fwb.endless_mode.confirm_party": "menu.fwb.battle",
+	"button.fwb.endless_mode": "menu.fwb.endless_mode"
 }

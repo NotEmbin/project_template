@@ -1,11 +1,9 @@
 {
 	"health":150,
 	"attacks":[
-		"fwb:jumpscare",
+		"fwb:bash_jam",
 		"fwb:speed_song",
-		"fwb:regen_song"
+		"fwb:bite"
 	],
-	"frames_of_animation":11,
-	"size_override":null,
-	"y_pos_override":null
+	"frames_of_animation":11
 }

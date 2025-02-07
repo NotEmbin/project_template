@@ -1,0 +1,24 @@
+{
+	"base_damage":10,
+	"base_damage_to_self":0,
+	"attack_type":"generic.swarm",
+	"random_textures":[
+		"fwb:attack/music_note/pink",
+		"fwb:attack/music_note/yellow",
+		"fwb:attack/music_note/blue",
+		"fwb:attack/music_note/green",
+		"fwb:attack/music_note/red"
+	],
+	"swarm":{
+		"amount":8,
+		"end_y":[-15,15]
+	},
+	"start_x":360,
+	"start_y":[-100,100],
+	"can_crit":false,
+	"poison_enemy":false,
+	"is_enemy_attack":false,
+	"color":"red",
+	"sound_override":"fwb:sound_effects/guitar_1",
+	"hit_sound_override":"fwb:sound_effects/pow"
+}

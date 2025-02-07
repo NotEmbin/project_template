@@ -8,7 +8,7 @@
 	"crit_chance":0.5,
 	"crit_chance_boss":0,
 	"poison_enemy":false,
-	"color":"black",
+	"color":"enemy",
 	"random_textures":[
 		"fwb:attack/screw_1",
 		"fwb:attack/screw_2",

@@ -1,11 +1,52 @@
 {
 	"texts":[
-		{"text":"Look at all this translated text!","color":"#ff0000"},
-		{"translate":"character.fwb.uncle_bonnie","color":"#ff0000"},
-		{"translate":"character.fwb.freddy_fazbear","color":"#ff0000"},
-		{"text":"That translation key doesn't exist!","color":"#ff0000"},
-		{"text":"Ain't that cool?","color":"#ff0000"},
-		{"translate":"data_registry.characters","color":"#ff0000"},
-		{"translate":"tag.attacks.fwb.prize_ball_3_list","color":"#ff0000"}
+		{
+			"text":"Wow,",
+			"color":"#ffffff",
+			"extra":{
+				"text":" Multi",
+				"color":"#ff0000",
+				"extra":{
+					"text":"colored",
+					"color":"#00ff00",
+					"extra":{
+						"text":" Text!",
+						"color":"#0000ff"
+					}
+				}
+			}
+		},
+		{
+			"text":"Isn't",
+			"color":"#00ffff",
+			"extra":{
+				"text":" this",
+				"color":"#ffff00",
+				"extra":{
+					"text":" so",
+					"color":"#ff00ff",
+					"extra":{
+						"text":" cool?",
+						"color":"#00ff00",
+						"extra":{
+							"translate":"setting.engine.music_volume",
+							"color":"#ff0000"
+						}
+					}
+				}
+			}
+		},
+		{
+			"translate":"setting.engine.sound_effects_volume",
+			"color":"#00ffff",
+			"extra":{
+				"translate":"setting.engine.master_volume",
+				"color":"#ffffff",
+				"extra":{
+					"translate":"button.settings.export_settings",
+					"color":"#ffff00"
+				}
+			}
+		}
 	]
 }

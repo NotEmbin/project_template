@@ -1,7 +1,7 @@
 {
 	"health":160,
 	"attacks":[
-		"fwb:bash_jam",
+		"fwb:bash_jam_2",
 		"fwb:bite",
 		"fwb:instant_health"
 	],
