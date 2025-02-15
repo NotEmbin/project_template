@@ -2,5 +2,10 @@
 	"settings":{
 		"singular":"setting",
 		"plural":"settings"
+	},
+	"fonts":{
+		"singular":"font",
+		"plural":"fonts",
+		"data_loadable":false
 	}
 }
