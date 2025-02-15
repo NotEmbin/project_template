@@ -4,6 +4,7 @@
 		"engine:background",
 		"fwb:menu_fade_duration",
 		"engine:popup_duration",
-		"engine:show_debug_controls"
+		"engine:show_debug_controls",
+		"fwb:download_endless_stats"
 	]
 }

@@ -4,5 +4,8 @@
 		"<player/enemy> Which team to target.",
 		"<member> Integer that determines which party member to kill.",
 		"Examples: `kill party 3`, `kill enemy 1`"
+	],
+	"clearEndlessModeScore":[
+		"Resets your personal best in Endless Mode"
 	]
 }
