@@ -1,0 +1,8 @@
+{
+	"slider":{
+		"min":0,
+		"max":200,
+		"appended_string":"%"
+	},
+	"default_value":0
+}

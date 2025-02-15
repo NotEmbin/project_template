@@ -1,0 +1,8 @@
+{
+	"slider":{
+		"min":30,
+		"max":240,
+		"appended_string":" fps"
+	},
+	"default_value":60
+}

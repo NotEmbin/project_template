@@ -1,0 +1,10 @@
+{
+	"slider":{
+		"min":5,
+		"max":50,
+		"divide":10,
+		"appended_string":" px",
+		"add_point":true
+	},
+	"default_value":30
+}

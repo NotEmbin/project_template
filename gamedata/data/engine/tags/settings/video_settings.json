@@ -1,0 +1,10 @@
+{
+	"data":[
+		"engine:effects",
+		"engine:animated_text_resolution",
+		"engine:animated_text_resolution_type",
+		"fwb:blur",
+		"engine:screen_shake",
+		"engine:screen_shake_intensity"
+	]
+}

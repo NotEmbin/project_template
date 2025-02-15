@@ -1,0 +1,9 @@
+{
+	"data":[
+		"fwb:advanced_tooltips",
+		"engine:background",
+		"fwb:menu_fade_duration",
+		"engine:popup_duration",
+		"engine:show_debug_controls"
+	]
+}

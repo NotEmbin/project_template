@@ -1,0 +1,10 @@
+{
+	"slider":{
+		"min":1,
+		"max":150,
+		"divide":10,
+		"appended_string":" sec(s)",
+		"add_point":true
+	},
+	"default_value":40
+}

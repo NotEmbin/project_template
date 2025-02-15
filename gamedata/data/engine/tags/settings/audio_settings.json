@@ -1,0 +1,7 @@
+{
+	"data":[
+		"engine:master_volume",
+		"engine:music_volume",
+		"engine:sound_effects_volume"
+	]
+}
