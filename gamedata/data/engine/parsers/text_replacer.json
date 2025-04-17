@@ -1,0 +1,11 @@
+{
+	"type":"object",
+	"parameters":{
+		"key":{
+			"type":"string"
+		},
+		"value":{
+			"type":"string"
+		}
+	}
+}

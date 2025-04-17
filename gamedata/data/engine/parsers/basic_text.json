@@ -1,0 +1,13 @@
+{
+	"type":"object",
+	"parameters":{
+		"text":{
+			"type":"string",
+			"incompatible_parameters":["translate"]
+		},
+		"translate":{
+			"type":"string",
+			"incompatible_parameters":["text"]
+		}
+	}
+}

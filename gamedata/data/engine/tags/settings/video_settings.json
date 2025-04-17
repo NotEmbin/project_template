@@ -5,6 +5,7 @@
 		"engine:animated_text_resolution_type",
 		"fwb:blur",
 		"engine:screen_shake",
-		"engine:screen_shake_intensity"
+		"engine:screen_shake_intensity",
+		"engine:high_contrast"
 	]
 }
