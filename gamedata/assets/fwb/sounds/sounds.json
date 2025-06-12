@@ -71,12 +71,6 @@
 			"loop":false
 		},
 		{
-			"file":"loop_test.wav",
-			"name":"loop_test",
-			"loop":true,
-			"exclude_category_from_name":true
-		},
-		{
 			"file":"bamboo_whoosh.mp3",
 			"name":"woosh",
 			"loop":false
@@ -99,11 +93,6 @@
 		{
 			"file":"ukulele_g.wav",
 			"name":"ukulele.4",
-			"loop":false
-		},
-		{
-			"file":"ui/gun_empty.mp3",
-			"name":"ui_hover",
 			"loop":false
 		},
 		{
@@ -174,16 +163,6 @@
 		{
 			"file":"attacks/biteb.wav",
 			"name":"bite_hit",
-			"loop":false
-		},
-		{
-			"file":"ui/popup_in.ogg",
-			"name":"popup_in",
-			"loop":false
-		},
-		{
-			"file":"ui/popup_out.ogg",
-			"name":"popup_out",
 			"loop":false
 		},
 		{
