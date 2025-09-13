@@ -18,7 +18,7 @@
 	"poison_enemy":true,
 	"is_enemy_attack":false,
 	"color":"green",
-	"boost_stats":{
+	"apply_party_stats":{
 		"speed":25
 	},
 	"sound_override":"fwb:sound_effects/gloom_song",

@@ -14,5 +14,9 @@
 	"bytes":{
 		"singular":"byte",
 		"plural":"bytes"
+	},
+	"chips":{
+		"singular":"chip",
+		"plural":"chips"
 	}
 }

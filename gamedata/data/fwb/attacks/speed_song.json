@@ -6,7 +6,7 @@
 	"crit_damage_multiplier":1,
 	"poison_enemy":false,
 	"color":"white",
-	"boost_stats":{
+	"apply_party_stats":{
 		"speed":50
 	}
 }

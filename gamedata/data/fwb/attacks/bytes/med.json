@@ -3,7 +3,7 @@
 	"damage_variation":[-2,2],
 	"base_damage_to_self":-35,
 	"attack_type":"boost_stats",
-	"boost_stats":{
+	"apply_party_stats":{
 		"show_overlay":false
 	},
 	"sound_override":null

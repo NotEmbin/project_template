@@ -1,0 +1,8 @@
+{
+	"rarity":"rare",
+	"apply_party_stats":{
+		"neon_walls":{
+			"fwb:neon_wall":2147483647
+		}
+	}
+}

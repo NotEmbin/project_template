@@ -23,7 +23,7 @@
 	"apply_effect":{
 		"regen_strong":60
 	},
-	"boost_stats":{
+	"apply_party_stats":{
 		"speed":50
 	},
 	"sound_override":"fwb:sound_effects/guitar_2",
