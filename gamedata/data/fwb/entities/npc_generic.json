@@ -1,0 +1,20 @@
+{
+	"texture_id":"fwb:attack/cupcake",
+	"texture_width":50,
+	"texture_height":50,
+	"allowed_settings":[
+		"fwb:save_key",
+		"fwb:dialogue",
+		"fwb:texture",
+		"fwb:comment",
+		"fwb:flipped",
+		"fwb:start_battle",
+		"fwb:unlock_character",
+		"fwb:unlock_byte",
+		"fwb:unlock_chip",
+		"fwb:broadcast",
+		"fwb:load_level",
+		"fwb:teleport_player",
+		"fwb:save_state_condition"
+	]
+}

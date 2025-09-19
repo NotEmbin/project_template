@@ -1,0 +1,5 @@
+{
+	"collision":"none",
+	"texture_override":"fwb:empty",
+	"texture_in_editor":"fwb:map_tiles/editor/air"
+}

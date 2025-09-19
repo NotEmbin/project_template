@@ -1,0 +1,18 @@
+{
+	"scene":{
+		"background":"fwb:background/geist_lair",
+		"music":"fwb:music/battle",
+		"left_character":"fwb:fredbear",
+		"right_character":{
+			"party_member":1
+		}
+	},
+	"texts":[
+		{"translate":"dialogue.fwb.default_empty_example.1"},
+		{"translate":"dialogue.fwb.default_empty_example.2"},
+		{"translate":"dialogue.fwb.default_empty_example.3"}
+	],
+	"edit_save_on_finish":{
+		"fwb:dev/seen_default_empty_example_dialogue":true
+	}
+}

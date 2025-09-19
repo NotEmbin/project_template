@@ -1,4 +1,16 @@
 {
+	"exportLoaded":[
+		"Exports currently loaded skins, tags, characters, etc."
+	],
+	"searchParam":[
+		"Create or delete url search parameters.",
+		"<create/delete> Choose whether to create or delete the specified param.",
+		"<name> Name of the search param.",
+		"[value] Value of the parameter."
+	],
+	"wacko":[
+		"Something wacky happens."
+	],
 	"kill":[
 		"Kills the specified member of the player or enemy team.",
 		"<player/enemy> Which team to target.",

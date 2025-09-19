@@ -15,8 +15,37 @@
 		"singular":"byte",
 		"plural":"bytes"
 	},
+	"settings":{
+		"singular":"setting",
+		"plural":"settings"
+	},
+	"fonts":{
+		"singular":"font",
+		"plural":"fonts",
+		"data_loadable":false
+	},
 	"chips":{
 		"singular":"chip",
 		"plural":"chips"
+	},
+	"levels":{
+		"singular":"level",
+		"plural":"levels"
+	},
+	"areas":{
+		"singular":"area",
+		"plural":"areas"
+	},
+	"tiles":{
+		"singular":"tile",
+		"plural":"tiles"
+	},
+	"entities":{
+		"singular":"entity",
+		"plural":"entities"
+	},
+	"dialogues":{
+		"singular":"dialogue",
+		"plural":"dialogues"
 	}
 }

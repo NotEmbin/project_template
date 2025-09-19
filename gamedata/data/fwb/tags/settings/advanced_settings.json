@@ -1,0 +1,10 @@
+{
+	"data":[
+		"fwb:advanced_tooltips",
+		"fwb:background",
+		"fwb:menu_fade_duration",
+		"fwb:popup_duration",
+		"fwb:show_debug_controls",
+		"fwb:download_endless_stats"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"data":[
+		"fwb:effects",
+		"fwb:animated_text_resolution",
+		"fwb:animated_text_resolution_type",
+		"fwb:blur",
+		"fwb:screen_shake",
+		"fwb:screen_shake_intensity"
+	]
+}

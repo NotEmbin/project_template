@@ -1,0 +1,12 @@
+{
+	"background":"fwb:background/fazbear_hills",
+	"teleport":{
+		"can_teleport":true,
+		"level":"fwb:x1z1",
+		"x":20,
+		"z":20
+	},
+	"music":"fwb:music/title_theme",
+	"enemy_set":"#fwb:enemy_set/fazbear_hills",
+	"unlockable_characters":"#fwb:unlockable/fazbear_hills"
+}

@@ -1,0 +1,15 @@
+{
+	"texture_id":"fwb:map_tiles/chest_yellow",
+	"texture_width":50,
+	"texture_height":50,
+	"allowed_settings":[
+		"fwb:save_key",
+		"fwb:texture",
+		"fwb:comment",
+		"fwb:unlock_character",
+		"fwb:unlock_byte",
+		"fwb:unlock_chip",
+		"fwb:broadcast",
+		"fwb:save_state_condition"
+	]
+}

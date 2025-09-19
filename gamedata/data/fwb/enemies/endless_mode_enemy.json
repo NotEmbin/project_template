@@ -11,7 +11,7 @@
 		"fwb:enemy/unscrew_2"
 	],
 	"attack_delay":5,
-	"power":2,
+	"power":3,
 	"frames_of_animation":4,
 	"one_shot_attacks_work":false,
 	"texture_override":"fwb:enemy/evilbear"

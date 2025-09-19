@@ -2,7 +2,7 @@
 	"health":150,
 	"attacks":[
 		"fwb:bash_jam",
-		"fwb:speed_song",
+		"fwb:birthday_song",
 		"fwb:bite"
 	],
 	"frames_of_animation":11

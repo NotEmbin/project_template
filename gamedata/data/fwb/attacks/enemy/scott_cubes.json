@@ -1,0 +1,19 @@
+{
+	"base_damage":5,
+	"base_damage_to_self":0,
+	"attack_type":"generic.swarm",
+	"swarm":{
+		"amount":16,
+		"amount_variation":[-1,1],
+		"spin_speed":0,
+		"delay":0.12,
+		"end_x":320
+	},
+	"start_x":-320,
+	"can_crit":true,
+	"crit_damage_multiplier":16,
+	"crit_chance":0,
+	"is_enemy_attack":true,
+	"color":"enemy",
+	"texture_override":"fwb:attack/scott_cube"
+}
