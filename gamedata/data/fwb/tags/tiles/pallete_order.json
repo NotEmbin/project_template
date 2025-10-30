@@ -1,0 +1,30 @@
+{
+	"data":[
+		"fwb:grass",
+		"fwb:dullgrass",
+		"fwb:cave_ground",
+		"fwb:water",
+		"fwb:snow",
+		"fwb:stone",
+		"fwb:tree",
+		"fwb:tree_stump",
+		"fwb:rock",
+		"fwb:lily_pad",
+		"fwb:tombstone",
+		"fwb:mushroom_red",
+		"fwb:mushroom_green",
+		"fwb:tent_red",
+		"fwb:tent_green",
+		"fwb:tent_yellow",
+		"fwb:tent_blue",
+		"fwb:tent_purple",
+		"fwb:dead_bush",
+		"fwb:dead_tree",
+		"fwb:gold_pile",
+		"fwb:geist_lair_rock",
+		"fwb:jack_o_lantern",
+		"fwb:dead_tree_halloween_backstage",
+		"fwb:rock_halloween_backstage",
+		"fwb:tombstone_halloween_backstage"
+	]
+}

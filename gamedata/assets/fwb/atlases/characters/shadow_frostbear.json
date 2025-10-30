@@ -1,0 +1,17 @@
+{
+	"texture_base":"fwb:character/shadow_frostbear_atlas",
+	"texture_width":256,
+	"texture_height":256,
+	"aliases":[
+		"fwb:character/shadow_frostbear/1",
+		"fwb:character/shadow_frostbear/2",
+		"fwb:character/shadow_frostbear/3",
+		"fwb:character/shadow_frostbear/4",
+		"fwb:character/shadow_frostbear/5",
+		"fwb:character/shadow_frostbear/6",
+		"fwb:character/shadow_frostbear/7",
+		"fwb:character/shadow_frostbear/8",
+		"fwb:character/shadow_frostbear/9",
+		"fwb:character/shadow_frostbear/10"
+	]
+}

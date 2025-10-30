@@ -2,7 +2,7 @@
 	"background":"fwb:background/fazbear_hills",
 	"teleport":{
 		"can_teleport":true,
-		"level":"fwb:x1z1",
+		"level":"fwb:overworld",
 		"x":20,
 		"z":20
 	},

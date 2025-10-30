@@ -1,0 +1,7 @@
+{
+	"rarity":"common",
+	"apply_party_stats":{
+		"speed":105,
+		"remaining_ticks":600
+	}
+}

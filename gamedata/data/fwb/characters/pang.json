@@ -1,10 +1,11 @@
 {
-	"health":300,
+	"health":280,
 	"attacks":[
 		"fwb:squawk",
 		"fwb:prize_ball_3",
-		"fwb:power_song"
+		"fwb:birthday_song_2"
 	],
 	"frames_of_animation":1,
-	"start_sound":"fwb:sound_effects/pang_squawk"
+	"start_sound":"fwb:sound_effects/squawk",
+	"death_sound":"fwb:sound_effects/squawk"
 }

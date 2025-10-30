@@ -1,0 +1,17 @@
+{
+	"texture_base":"fwb:character/freddy_frostbear_atlas",
+	"texture_width":256,
+	"texture_height":256,
+	"aliases":[
+		"fwb:character/freddy_frostbear/1",
+		"fwb:character/freddy_frostbear/2",
+		"fwb:character/freddy_frostbear/3",
+		"fwb:character/freddy_frostbear/4",
+		"fwb:character/freddy_frostbear/5",
+		"fwb:character/freddy_frostbear/6",
+		"fwb:character/freddy_frostbear/7",
+		"fwb:character/freddy_frostbear/8",
+		"fwb:character/freddy_frostbear/9",
+		"fwb:character/freddy_frostbear/10"
+	]
+}

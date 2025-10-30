@@ -19,5 +19,8 @@
 	"menu.fwb.byte_selection.classic_mode":true,
 	"menu.fwb.byte_selection.endless_mode":true,
 	"menu.fwb.attack_gallery":true,
-	"menu.fwb.endless_mode":true
+	"menu.fwb.endless_mode":true,
+	"menu.fwb.chip_selection":true,
+	"menu.fwb.chip_selection.classic_mode":true,
+	"menu.fwb.chip_selection.endless_mode":true
 }

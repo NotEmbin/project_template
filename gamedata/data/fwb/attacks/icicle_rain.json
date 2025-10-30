@@ -1,0 +1,26 @@
+{
+	"base_damage":100,
+	"damage_variation":[-10,10],
+	"base_damage_to_self":0,
+	"attack_type":"generic.swarm",
+	"swarm":{
+		"end_x_is_start_x":true,
+		"end_y":-100,
+		"amount":10
+	},
+	"start_x":[-270,-80],
+	"start_y":220,
+	"can_crit":true,
+	"crit_damage_multiplier":4,
+	"poison_enemy":true,
+	"is_enemy_attack":false,
+	"color":"purple",
+	"apply_party_stats":{
+		"attack":30
+	},
+	"apply_enemy_party_stats":{
+		"defense":-50
+	},
+	"texture_width":32,
+	"texture_height":128
+}

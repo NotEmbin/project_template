@@ -1,6 +1,6 @@
 {
-	"rarity":"common",
+	"rarity":"uncommon",
 	"apply_effect":{
-		"regen":60
+		"regen_strong":2147483647
 	}
 }

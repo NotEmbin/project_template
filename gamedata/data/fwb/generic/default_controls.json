@@ -12,5 +12,9 @@
 	"fwb:move_up":"w",
 	"fwb:move_down":"s",
 	"fwb:move_left":"a",
-	"fwb:move_right":"d"
+	"fwb:move_right":"d",
+	"fwb:editor/toggle_noclip":"v",
+	"fwb:editor/place_tile":"e",
+	"fwb:editor/remove_tile":"q",
+	"fwb:editor/toggle_fast_movement":"b"
 }

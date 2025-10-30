@@ -1,0 +1,18 @@
+{
+	"base_damage":128,
+	"damage_variation":[-8,10],
+	"base_damage_to_self":0,
+	"attack_type":"generic.swarm",
+	"swarm":{
+		"amount":8,
+		"delay":0.1,
+		"spin_speed":15
+	},
+	"can_crit":false,
+	"crit_damage_multiplier":4,
+	"poison_enemy":false,
+	"color":"blaze_orange",
+	"screen_shake_duration":1.6,
+	"size":120,
+	"texture_override":"fwb:attack/pizza_wheel_2"
+}

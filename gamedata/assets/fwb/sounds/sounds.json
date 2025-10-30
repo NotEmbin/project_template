@@ -261,6 +261,11 @@
 			"file":"attacks/laser2.wav",
 			"name":"laser",
 			"loop":false
+		},
+		{
+			"file":"squawk.wav",
+			"name":"squawk",
+			"loop":false
 		}
 	]
 }

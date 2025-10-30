@@ -1,0 +1,17 @@
+{
+	"base_damage":1024,
+	"damage_variation":[-32,32],
+	"base_damage_to_self":0,
+	"attack_type":"generic.toss",
+	"toss":{
+		"duration":0.5,
+		"spin_speed":0
+	},
+	"can_crit":true,
+	"crit_damage_multiplier":8,
+	"poison_enemy":false,
+	"is_enemy_attack":false,
+	"color":"blaze_orange",
+	"texture_width":128,
+	"texture_height":32
+}

@@ -1,8 +1,8 @@
 {
 	"button_settings": "menu.settings",
-	"button_backsettings": "menu.title_screen",
-	"button_resource_packs": "menu.resource_pack_menu",
 	"button_backsettings": "menu.fwb.mode_selection",
+	"button_resource_packs": "menu.resource_pack_menu",
+	"button_backtosettings": "menu.settings",
 	"button.fwb.return_to_title.credits": "menu.trigger_return_to_title_sequence",
 	"button_quit": "!quit_game",
 	"button_controls": "menu.controls",
@@ -26,7 +26,6 @@
 	"button.fwb.tag_viewer": "menu.tag_viewer",
 	"button.fwb.in_battle.detonate_stickybombs": "attack.stickybomb.detonate",
 	"button.fwb.single_character_mode": "menu.fwb.classic_mode",
-	"button.fwb.in_battle.detonate_stickybombs":"attack.stickybomb.detonate",
 	"button.fwb.atlas_testing":"menu.example",
 	"button.fwb.byte_menu.normal_mode":"menu.fwb.byte_selection",
 	"button.fwb.byte_menu.classic_mode":"menu.fwb.byte_selection.classic_mode",
@@ -34,5 +33,8 @@
 	"button.fwb.attack_gallery":"menu.fwb.attack_gallery",
 	"button.fwb.endless_mode.cancel_party": "menu.fwb.endless_mode.cancel_party",
 	"button.fwb.endless_mode.confirm_party": "menu.fwb.battle",
-	"button.fwb.endless_mode": "menu.fwb.endless_mode"
+	"button.fwb.endless_mode": "menu.fwb.endless_mode",
+	"button.fwb.chip_menu.normal_mode":"menu.fwb.chip_selection",
+	"button.fwb.chip_menu.classic_mode":"menu.fwb.chip_selection.classic_mode",
+	"button.fwb.chip_menu.endless_mode":"menu.fwb.chip_selection.endless_mode"
 }

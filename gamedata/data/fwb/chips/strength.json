@@ -1,0 +1,7 @@
+{
+	"rarity":"common",
+	"apply_party_stats":{
+		"attack":75,
+		"remaining_ticks":600
+	}
+}

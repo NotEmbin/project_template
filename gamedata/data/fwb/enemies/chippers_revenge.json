@@ -3,8 +3,7 @@
 	"attacks":[
 		"fwb:enemy/strong_hook",
 		"fwb:enemy/4th_wall",
-		"fwb:enemy/alarm",
-		"fwb:enemy/snow_balls",
+		"fwb:enemy/snow_balls_2",
 		"fwb:enemy/mega_bite",
 		"fwb:enemy/unscrew_2",
 		"fwb:enemy/toxic_bite"

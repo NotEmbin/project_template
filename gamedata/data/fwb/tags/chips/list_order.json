@@ -1,9 +1,16 @@
 {
 	"data":[
 		"fwb:defense",
-		"fwb:regen",
+		"fwb:speed",
+		"fwb:strength",
 		"fwb:defense_endless",
-		"fwb:start_with_gift_boxes",
-		"fwb:permanent_neon_wall"
+		"fwb:speed_endless",
+		"fwb:strength_endless",
+		"fwb:regen",
+		"fwb:auto_gift_boxes",
+		"fwb:pizza_wheel_fury",
+		"fwb:freddles_fury",
+		"fwb:auto_neon_wall",
+		"fwb:crit_resistance"
 	]
 }

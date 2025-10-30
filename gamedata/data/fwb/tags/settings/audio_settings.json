@@ -2,6 +2,7 @@
 	"data":[
 		"fwb:master_volume",
 		"fwb:music_volume",
-		"fwb:sound_effects_volume"
+		"fwb:sound_effects_volume",
+		"fwb:music_pitch"
 	]
 }

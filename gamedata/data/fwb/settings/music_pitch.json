@@ -1,0 +1,7 @@
+{
+	"slider":{
+		"min":-100,
+		"max":100
+	},
+	"default_value":0
+}

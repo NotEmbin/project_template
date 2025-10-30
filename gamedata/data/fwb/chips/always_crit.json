@@ -1,0 +1,8 @@
+{
+	"rarity":"rare",
+	"crit_chance_modifier":{
+		"target_enemy":1,
+		"allow_all_attacks_to_crit":true,
+		"ignore_all_special_cases":true
+	}
+}

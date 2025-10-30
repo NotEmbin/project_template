@@ -1,0 +1,9 @@
+{
+	"health":325,
+	"attacks":[
+		"fwb:icicle_rain",
+		"fwb:slasher",
+		"fwb:armor_song"
+	],
+	"frames_of_animation":10
+}

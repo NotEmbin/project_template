@@ -9,5 +9,6 @@
 	"fwb.normal_mode":4,
 	"fwb.classic_mode":4,
 	"fwb.byte_selection":4,
-	"fwb.attack_gallery":4
+	"fwb.attack_gallery":4,
+	"fwb.chip_selection":4
 }

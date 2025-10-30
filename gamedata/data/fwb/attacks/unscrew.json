@@ -5,8 +5,8 @@
 	"can_crit":true,
 	"crit_damage_multiplier":1,
 	"crit_damage_override":100000000,
-	"crit_chance":0.1,
-	"crit_chance_boss":0.001,
+	"crit_chance":0.25,
+	"crit_chance_boss":0.01,
 	"poison_enemy":false,
 	"color":"black",
 	"random_textures":[

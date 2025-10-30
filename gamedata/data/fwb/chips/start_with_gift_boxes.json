@@ -1,7 +1,0 @@
-{
-	"rarity":"uncommon",
-	"run_attack":{
-		"id":"fwb:gift_boxes",
-		"interval_seconds":2147483647
-	}
-}

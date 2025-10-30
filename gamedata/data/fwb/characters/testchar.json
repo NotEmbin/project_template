@@ -4,8 +4,7 @@
 		"fwb:crit_test",
 		"fwb:neon_wall_2",
 		"fwb:enemy/evil_bear_chomp",
-		"fwb:speed_song",
-		"fwb:enemy/mega_bite"
+		"fwb:speed_song"
 	],
 	"frames_of_animation":10,
 	"texture_override":"fwb:character/freddy"

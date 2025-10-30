@@ -1,0 +1,15 @@
+{
+	"base_damage":75,
+	"base_damage_to_self":0,
+	"attack_type":"bite",
+	"start_x":170,
+	"can_crit":false,
+	"crit_damage_multiplier":4,
+	"poison_enemy":false,
+	"is_enemy_attack":true,
+	"color":"enemy",
+	"texture_override":"fwb:attack/toxic_bite",
+	"apply_effects":{
+		"poison":25
+	}
+}

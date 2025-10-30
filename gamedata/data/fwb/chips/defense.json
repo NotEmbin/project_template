@@ -1,7 +1,7 @@
 {
 	"rarity":"common",
 	"apply_party_stats":{
-		"defense":50,
+		"defense":75,
 		"remaining_ticks":600
 	}
 }
